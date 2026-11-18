@@ -1,0 +1,27 @@
+{
+  "problem_id": "3034",
+  "test_source": "Original APPS test split via https://huggingface.co/datasets/metr-evals/apps; dataset viewer: https://datasets-server.huggingface.co/rows?dataset=metr-evals%2Fapps&config=default&split=test&offset=3034&length=1",
+  "source_dataset": "metr-evals/apps",
+  "source_split": "test",
+  "source_problem_url": "https://open.kattis.com/problems/expectingrain",
+  "retrieved_at_utc": "2026-11-18T01:00:21.109010+00:00",
+  "verification": "id_and_question_exact_prefix",
+  "review_status": "approved",
+  "validation_scope": "numeric_tolerance_from_problem_statement",
+  "checker": "numeric_tolerance",
+  "inputs": [
+    "20 60 2 1\n5 15 0.33333 30\n22 60 0.66666 70\n0 10\n",
+    "3 4 2 1\n1 3 0.25 8\n2 4 0.66667 15\n1 2\n",
+    "3 4 1 0\n0 2 0.25 8\n",
+    "3 5 2 1\n0 3 0.125 32\n2 5 0.5 32\n3 4\n"
+  ],
+  "outputs": [
+    "466.662\n",
+    "10.00005\n",
+    "2.0\n",
+    "28.0\n"
+  ],
+  "abs_tol": 1e-05,
+  "rel_tol": 1e-05,
+  "suite_sha256": "ff629696e4456eb414de0dd50c6212160e080360880174d53fcc3aed36685715"
+}

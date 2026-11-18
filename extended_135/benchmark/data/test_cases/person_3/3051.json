@@ -1,0 +1,25 @@
+{
+  "problem_id": "3051",
+  "test_source": "Original APPS test split via https://huggingface.co/datasets/metr-evals/apps; dataset viewer: https://datasets-server.huggingface.co/rows?dataset=metr-evals%2Fapps&config=default&split=test&offset=3051&length=1",
+  "source_dataset": "metr-evals/apps",
+  "source_split": "test",
+  "source_problem_url": "https://open.kattis.com/problems/fogcatchers",
+  "retrieved_at_utc": "2026-11-18T01:00:29.886325+00:00",
+  "verification": "id_and_question_exact_prefix",
+  "review_status": "approved",
+  "validation_scope": "reference_comparison_unique_output_candidate",
+  "checker": "reference_tokens",
+  "inputs": [
+    "2\n2 3 0 2 9 2 3 0\n1 6 1 4 6 3 -1 -2\n",
+    "3\n4 0 0 10 10 1 15 0\n3 5 50 55 8 1 -16 2\n3 10 7 10 4 1 8 -1\n",
+    "2\n7 0 0 20 10 3 0 10\n10 1 0 2 5 2 2 7\n",
+    "7\n8 317 17 21 1000000 59872 5 100000\n1 419421 21 22 324455 59872 1 -30993\n2 359549 50 51 390820 59872 0 -18659\n7 60189 50 51 276352 59872 0 31787\n1 419421 50 51 307591 59872 0 10826\n1 419421 50 51 492473 59872 0 45464\n1 419421 50 51 319158 59872 0 -47232\n"
+  ],
+  "outputs": [
+    "3\n",
+    "6\n",
+    "11\n",
+    "15\n"
+  ],
+  "suite_sha256": "2803aab23bdefd60214f3a7d1452ec0c3c804076bd796fac260dfb3e55f921ed"
+}

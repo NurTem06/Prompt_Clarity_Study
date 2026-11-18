@@ -1,0 +1,25 @@
+{
+  "problem_id": "3030",
+  "test_source": "Original APPS test split via https://huggingface.co/datasets/metr-evals/apps; dataset viewer: https://datasets-server.huggingface.co/rows?dataset=metr-evals%2Fapps&config=default&split=test&offset=3030&length=1",
+  "source_dataset": "metr-evals/apps",
+  "source_split": "test",
+  "source_problem_url": "https://open.kattis.com/problems/heapstrees",
+  "retrieved_at_utc": "2026-11-18T00:41:20.202733+00:00",
+  "verification": "id_and_question_exact_prefix",
+  "review_status": "approved",
+  "validation_scope": "reference_comparison_unique_output_candidate",
+  "checker": "reference_tokens",
+  "inputs": [
+    "5\n3 0\n3 1\n3 2\n3 3\n3 4\n",
+    "5\n4 0\n3 1\n2 2\n1 3\n0 4\n",
+    "6\n3 0\n1 1\n2 1\n3 1\n4 1\n5 1\n",
+    "11\n7 0\n8 1\n5 1\n5 2\n4 2\n3 2\n6 3\n6 3\n10 4\n9 4\n11 4\n"
+  ],
+  "outputs": [
+    "1\n",
+    "5\n",
+    "5\n",
+    "7\n"
+  ],
+  "suite_sha256": "605bb53a8321ee4783050f84fcca46d84cdeedb4d4c8eec0474aa5267b19b53a"
+}

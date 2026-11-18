@@ -1,0 +1,107 @@
+{
+  "id": "resp_0a9de00c2b618d1a016ae2f0ca884087d29139ef88cbcc3240",
+  "created_at": 1793257674.0,
+  "error": null,
+  "incomplete_details": null,
+  "instructions": "Solve the programming problem using Python 3. Read from standard input and write to standard output. Return only executable Python 3 source code, without Markdown or explanations.",
+  "metadata": {},
+  "model": "gpt-6.1-sol",
+  "object": "response",
+  "output": [
+    {
+      "id": "rs_0a9de00c2b618d1a016ae2f0cba11487d2bcd99c161a6a57af",
+      "summary": [],
+      "type": "reasoning",
+      "content": [],
+      "encrypted_content": "gAAAAABq4vDVOOuQW97lz9q4Wpqxl9IJgnbMplhh0sLSKUDZaSSkK8jiwIthra3nKN47VIQRCwF0N8YbsaQw6w6o8tTQg8mwsdsdrRo17l38JTMysQUoH7dUvLg1yqdjB-_xucLpLcXVFnDcE5Y1Ucc0x6MSyPopCJ-SXvNNAbbOQ0LZa2eQMe-3tsuVKVcShtRklMqMmPepEPpEKXND2uMazmEeJT4FAW7Kd47L1GvI4jRqyPg-fap6WMFpcdDwxkRMMFYaLFPT9i0FNnLYybp7p1OVq_pOFc8MeJr-XeFxa-qT7rlrl9xwod23ZrDjDyMKIb45UfaXRRFXaLYEhJf5dHN5C6fKyntSiwdyY_yY4JYSGGVZixG8f5Z9co5WZConfjpSsHMaRzA_JlrMZ0IV4mt8h5DVyByQhoZau6IE-IKcMriVG1ugxkSLpz6h21YSg918l_ENm3LOnXBHMPpkvYV4f5Ztt3XwuJsv7WwTfI7-lr7kuxz5jK__ATskN0b5LMvW57YDtlB7iMWKj679e2MsMLr99EXLVnnGClJEJohJm66wrT_PLG_mfcaqrwtdNmWJSk969VLKCy8xb1FEzFOKGe22UZh0B63748QRG1D7NDdpeFINVrMxGh83cIdzNwk2pyejsbslirWKhIBI6EVvqFgOSumtoKpcfScnWQYWlu2PBoex50wQAtPdHSP2jUbbgGiJFUJ9qwGxZwv8DGDPlY2bG-SDiONL9buNFnP2fN6B6ImUx-TDr3UX8bS3oF_yGmrkw7Xl-7Ye2-ONjosPlhGya6mSj_oV4xhORaHXz0DNUsFD6tqG2dFpam7JX4wGTo4wl-P8InwvWAoG8tOH3w53kdIui8seteZ06R-8frB_CuNxCXAvs4pUncYBnMvu-sh8GgMhI4slVxWM2vHuXr5m7F76yql217fYsN-1vLUl_Dd2ms_kazBlXtb-ittNer9Y6nNtaUnvxluWi_0o0_rzYxhvQm1C5gKn0cBLzE1Hpg7ApztXRSRQF8BWBBm6w-m-DLvSoG-qhkGoXMYKfRPZBT2BgrkXG5BaT2w7iksCsgo5mue8ReyTCKMafy49di844Dr9-c4WaH8vRPknv3kOzIyBdep2hDVx5VZjimY96pcmLlYaMF4WP-7qooJ2mDVL_Qb0hj2qG5kABrY9fwDjvT5u_uy9gLHOuHXECzk-RUFIPOs4udE-dw1RT8GPoYF9Vu-hJs4gyRmTQsGGenAbkK0TbyXuYvaRofDNlFfUtBf4zULWlFcPdSSOzi_sX007186-y5smRwbmmeogAgs9gi0xwAj2youSol4FJqcm7lEYQiwT-Qz8HQeJUB7HHnVemIf-6zG864f5jQrGLaf7CC1RYml_n2cTZStWFRc22THAJSCSE4ReED1tnEq8VRCeP2QRUfPAegFrSsMUP9omK9x9ZQuV8r7h7LIeJuMK4E-zlqRQ1mESKeoce92sSJEHJyOo3eWHtGYVt7IvEl9Tky1_ac9ziLeH7f6_hwMOM1rUox5R3JuFdf_jtl2eNjUPCeyUFUM4UCgkon0gnA6T4c5_tEh4a_qB4jzSrIjEOp0HScrwz69xBs6DihMX1ODV8RBlaW0X7j6ZVaC-zFTVL7iB5Wd6qAF5Hq2JWFy00-a_bdxNho3CFmYQmw0HbS8nkvWOiHOV3x44Ci2GyHDxnb5dhpHG7IQEhKODh__r-N8EkGPVk_isq8zHrD4EQ2Ak6smzN3ugHjHWB6-1LDHciEFjoLpLXEE3xeywFgG6da-kNR97qIw5tLrxzfWg6G0ZvqbuJ__ozH-rt2wbr05ex4w8fC6SSzHb_gPhCH0-0mGdXROyqdpABk_53-zW4YVahP7h7OW40mQ6S906BMnIdTR15K_AkohI5mmzEYzGAhmmbkQThxMmSvcvQlVO8elScPfDYQ20vKewn44Y1WItmySv4HY55gLOyPTeaMFObcE1PZUUzWhQ4oTvgXrfisea4f4jYl-4s-BjIMyIOgixmIQHynA5lSqgfbAoR00PAS4xIX9pSWtcB1zP7xAvu2aD1CBMXlDe3mvlPD8Xk8GgVC9mgn9E0YfIFdl2bdCOkxdJj2p9pAhUSlYKDNiYEmh1Nm_zA8Io4qiD_-uJsYuKdlxaNO-VWrlZhxZ0yUQP8yDqs9DrtS95DeWZOPot3qpix-26XnEmYxb4Il_Ut9TqEQR3JsWyQRtsruQcTiNxxsLrWC8UWHxe3IcnbFRdiruA8Rg8C90pG5q7qMzhwKajKtwqu4kpvEM_2OhCrhBCXw6K4R2U5KDuD2VP82KdyL6YVeYpiE0tkem-mW-n7s1N3zTt_US5MJsy9YdkmjrSQhwEaQTl6-ULnR0UbFGX-WWC4PHasHvGDlvrt5LifiAqStgUMPT9pfawXwsvAbTrTupBPMbHsPX1Wwtolhko-9jaZ0r-lq3OWt_x4JNXaF1lyoxPSFx2x-BaWXnIbdZVb_UdrP6eZAojg5WGRgnVerSd_rzp9QDVXoGzAU4m4DWC9Gy2bEoRV03JZV6EG7fHE36TazRIy8ZMNDviZOww9LGLyS6kIpwWTpaJ2a0G2i40EIanzOP68IGZRZ_d5Xj5EL6cZCzrhATrrBpIR_8SKnXs2ikES2NNz7108-R6saBSr1vhx2hskaypvldubGpLj3Cm-uDJw3MqCCgUtFTtLKsnmp1WHJPAIBO1dRD54GKS2a80P0FgBpoh4GeA-g-J1_MEdzpiSRXGk6uJWjrm2IUHwcu5GyLpnAAlRxz37aBlq44552_6hWc9VC9gh9ragH-mR82gkDTcsmS0cDOCK71WfoRB5gj0AiCLhYb5GZjOgxciX7aAH1l-zg6GNgegLUbl52Y6DANw_JZ1FeIW6dOXu_IVeRZ8OOOLR6Tzss7yGUuUebxFaE5szIp8As9QTTpcBPHWdbZNzwFSPv_Oah_TGN8MyHnKXDOTPZOc6BR0Cm9XyrlbdOCV6JyjzqE3tEfwsuNeSS6Px_f0o6HTEU61gs0_F6aJPaaOaEYQakX1PSdfcFNrrn9WBLLrcao1EPYkMHt2D1JrFbvLh8p8QP34TcgtqDIMm_4qqAhHbnE26VRUaV5tjkOUawM-K6IWmqYkpm343f9K1oIomAWBmoaTQ-5DcVRN_iuOpB7h3w1RhzC2hpI6AxrvFb3WgbSISG0mfmJ-7DD51GIMJP7z6kYQcJHsvP6EScvYPWP_IPIalIrnJrDKmCwGzij4ow1VzY_K1KCNqtHzt2yKiFNoF6vFysH_jjafTBiS_BWsModo7l5Qes5Twk1iO1TVBc5mx7QdcYTd4B9bMkOlqjYXl_qw6P1tkByfJND26TS-2XG8gzlZDBbQdCETMNRZ4OvLfNH6c5VcCL_9J4P4o5dkmpM4Gq-LVULbvT5Tbg0Uvlnn3LwjS8i94f78bXQbXfPWO2lGdRT3hq5hlGEz7cS8p1gijKMu_HVIkrezBQxW1MHy8xhdH4sWud6nKTYYWQfnhCKPkXz7PY4iU54jYfxkUdjKLqgWMux6jwqn-JN5b2nlbMtgbWA_v1d3jCSSM5YftRz9A64VkU_I6OLyUXxTMXliS4pUXSFaCiC2tPUDPc_L-lpiM0gal401uuF9Y61OXtjFNhUPutP7QUvtxGrgqULeN5r2Ui_5bc6mJphZmDOanVaWsoYiZdaz8290tyG9kmv5a8VQTaGeuZk3frBy2reC",
+      "status": null
+    },
+    {
+      "id": "msg_0a9de00c2b618d1a016ae2f0d1a43487d2b255339998651f3e",
+      "content": [
+        {
+          "annotations": [],
+          "text": "import sys\n\n\ndef main():\n    data = list(map(int, sys.stdin.buffer.read().split()))\n    if not data:\n        return\n\n    n, m, k = data[:3]\n    limit = m // 2\n\n    if limit == 0:\n        print(0)\n        return\n\n    if k == 1:\n        print(sum(\n            sum(sorted(data[3 + i * m:3 + (i + 1) * m], reverse=True)[:limit])\n            for i in range(n)\n        ))\n        return\n\n    shifts = [[(r + v) % k for r in range(k)] for v in range(k)]\n    total = [-1] * k\n    total[0] = 0\n    pos = 3\n\n    for _ in range(n):\n        row = data[pos:pos + m]\n        pos += m\n\n        dp = [[-1] * k for _ in range(limit + 1)]\n        dp[0][0] = 0\n\n        for index, value in enumerate(row):\n            shift = shifts[value % k]\n            for count in range(min(index, limit - 1), -1, -1):\n                source = dp[count]\n                target = dp[count + 1]\n                for remainder, current in enumerate(source):\n                    if current >= 0:\n                        new_remainder = shift[remainder]\n                        candidate = current + value\n                        if candidate > target[new_remainder]:\n                            target[new_remainder] = candidate\n\n        best = [-1] * k\n        for state in dp:\n            for remainder, value in enumerate(state):\n                if value > best[remainder]:\n                    best[remainder] = value\n\n        combined = [-1] * k\n        available = [(r, value) for r, value in enumerate(best) if value >= 0]\n        for remainder, current in enumerate(total):\n            if current < 0:\n                continue\n            shift = shifts[remainder]\n            for row_remainder, value in available:\n                new_remainder = shift[row_remainder]\n                candidate = current + value\n                if candidate > combined[new_remainder]:\n                    combined[new_remainder] = candidate\n        total = combined\n\n    print(total[0])\n\n\nif __name__ == \"__main__\":\n    main()\n",
+          "type": "output_text",
+          "logprobs": []
+        }
+      ],
+      "role": "assistant",
+      "status": "completed",
+      "type": "message",
+      "phase": "final_answer"
+    }
+  ],
+  "parallel_tool_calls": true,
+  "temperature": 1.0,
+  "tool_choice": "auto",
+  "tools": [],
+  "top_p": 0.98,
+  "background": false,
+  "completed_at": 1793257685.0,
+  "conversation": null,
+  "max_output_tokens": 16000,
+  "max_tool_calls": null,
+  "moderation": null,
+  "previous_response_id": null,
+  "prompt": null,
+  "prompt_cache_key": null,
+  "prompt_cache_options": null,
+  "prompt_cache_retention": "24h",
+  "reasoning": {
+    "context": "all_turns",
+    "effort": "medium",
+    "generate_summary": null,
+    "mode": "standard",
+    "summary": null
+  },
+  "safety_identifier": null,
+  "service_tier": "default",
+  "status": "completed",
+  "text": {
+    "format": {
+      "type": "text"
+    },
+    "verbosity": "medium"
+  },
+  "top_logprobs": 0,
+  "truncation": "disabled",
+  "usage": {
+    "input_tokens": 481,
+    "input_tokens_details": {
+      "cache_write_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens": 700,
+    "output_tokens_details": {
+      "reasoning_tokens": 214
+    },
+    "total_tokens": 1181
+  },
+  "user": null,
+  "access_programs": null,
+  "billing": {
+    "payer": "developer"
+  },
+  "frequency_penalty": 0.0,
+  "presence_penalty": 0.0,
+  "store": false,
+  "tool_usage": {
+    "image_gen": {
+      "input_tokens": 0,
+      "input_tokens_details": {
+        "image_tokens": 0,
+        "text_tokens": 0
+      },
+      "output_tokens": 0,
+      "output_tokens_details": {
+        "image_tokens": 0,
+        "text_tokens": 0
+      },
+      "total_tokens": 0
+    },
+    "web_search": {
+      "num_requests": 0
+    }
+  }
+}

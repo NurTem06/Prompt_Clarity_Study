@@ -1,0 +1,25 @@
+{
+  "problem_id": "3023",
+  "test_source": "Original APPS test split via https://huggingface.co/datasets/metr-evals/apps; dataset viewer: https://datasets-server.huggingface.co/rows?dataset=metr-evals%2Fapps&config=default&split=test&offset=3023&length=1",
+  "source_dataset": "metr-evals/apps",
+  "source_split": "test",
+  "source_problem_url": "https://open.kattis.com/problems/birthdaycake",
+  "retrieved_at_utc": "2026-11-18T00:41:12.124887+00:00",
+  "verification": "id_and_question_exact_prefix",
+  "review_status": "approved",
+  "validation_scope": "reference_comparison_unique_output_candidate",
+  "checker": "reference_tokens",
+  "inputs": [
+    "4 2 3\n0 1\n1 0\n-1 0\n0 -1\n-1 1 0\n2 1 0\n",
+    "4 3 3\n0 1\n1 2\n-1 2\n0 -1\n-1 1 -2\n-1 -1 2\n0 -1 0\n",
+    "3 2 3\n2 1\n0 0\n-1 -2\n1 1 -2\n3 6 12\n",
+    "3 1 2\n0 0\n-1 1\n1 -1\n-2 2 1\n"
+  ],
+  "outputs": [
+    "yes\n",
+    "no\n",
+    "yes\n",
+    "no\n"
+  ],
+  "suite_sha256": "e1bebb33dedafa6e2c1b718a1a9cd79778d87fa5b1605658bd9b598707563399"
+}

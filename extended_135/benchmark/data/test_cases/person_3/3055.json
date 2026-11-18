@@ -1,0 +1,25 @@
+{
+  "problem_id": "3055",
+  "test_source": "Original APPS test split via https://huggingface.co/datasets/metr-evals/apps; dataset viewer: https://datasets-server.huggingface.co/rows?dataset=metr-evals%2Fapps&config=default&split=test&offset=3055&length=1",
+  "source_dataset": "metr-evals/apps",
+  "source_split": "test",
+  "source_problem_url": "https://open.kattis.com/problems/thore",
+  "retrieved_at_utc": "2026-11-18T01:00:30.433066+00:00",
+  "verification": "id_and_question_exact_prefix",
+  "review_status": "approved",
+  "validation_scope": "reference_comparison_unique_output_candidate",
+  "checker": "reference_tokens",
+  "inputs": [
+    "2\nThoreTiemann\nThoreHusfeldt\n",
+    "2\nThoreHusfeldt\nJohanSannemo\n",
+    "2\nThoreHusfeldter\nThoreHusfeldt\n",
+    "2\nJohanSannemo\nThoreHusfeldt\n"
+  ],
+  "outputs": [
+    "ThoreH\n",
+    "Thore is awesome\n",
+    "Thore sucks\n",
+    "T\n"
+  ],
+  "suite_sha256": "bc97b3365cba743d21a71f79de716f4c8c073de1fd2b8ecd48f5d44d55583dbe"
+}

@@ -1,0 +1,27 @@
+{
+  "problem_id": "3015",
+  "test_source": "Original APPS test split via https://huggingface.co/datasets/metr-evals/apps; dataset viewer: https://datasets-server.huggingface.co/rows?dataset=metr-evals%2Fapps&config=default&split=test&offset=3015&length=1",
+  "source_dataset": "metr-evals/apps",
+  "source_split": "test",
+  "source_problem_url": "https://open.kattis.com/problems/hamster",
+  "retrieved_at_utc": "2026-11-18T00:41:11.253096+00:00",
+  "verification": "id_and_question_exact_prefix",
+  "review_status": "approved",
+  "validation_scope": "reference_comparison_unique_output_candidate",
+  "checker": "reference_tokens",
+  "inputs": [
+    "4 5 0 3\n0 1 1\n1 2 2\n2 0 4\n2 3 1\n2 3 3\n",
+    "5 5 0 4\n0 1 1\n1 2 1\n2 3 1\n3 0 1\n2 4 1\n",
+    "2 1 0 1\n0 1 2\n",
+    "3 3 1 2\n0 1 1\n1 0 1\n1 2 1\n",
+    "3 2 0 1\n0 2 3\n2 0 3\n"
+  ],
+  "outputs": [
+    "11\n",
+    "infinity\n",
+    "2\n",
+    "infinity\n",
+    "infinity\n"
+  ],
+  "suite_sha256": "8ac4c37386912ba7a7d1a18c6222dbeff1b8a424dc2f00150dfb7b74a0ba3afa"
+}

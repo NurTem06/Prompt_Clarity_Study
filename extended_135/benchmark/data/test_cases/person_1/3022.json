@@ -1,0 +1,25 @@
+{
+  "problem_id": "3022",
+  "test_source": "Original APPS test split via https://huggingface.co/datasets/metr-evals/apps; dataset viewer: https://datasets-server.huggingface.co/rows?dataset=metr-evals%2Fapps&config=default&split=test&offset=3022&length=1",
+  "source_dataset": "metr-evals/apps",
+  "source_split": "test",
+  "source_problem_url": "https://open.kattis.com/problems/diversecookies",
+  "retrieved_at_utc": "2026-11-18T00:41:12.088098+00:00",
+  "verification": "id_and_question_exact_prefix",
+  "review_status": "approved",
+  "validation_scope": "reference_comparison_unique_output_candidate",
+  "checker": "reference_tokens",
+  "inputs": [
+    "2 3 3 3\n",
+    "10 20 0 0\n",
+    "100 20 543 12\n",
+    "1000000000 1000000000 1000000000 1000000000\n"
+  ],
+  "outputs": [
+    "9\n",
+    "10\n",
+    "164\n",
+    "3000000000\n"
+  ],
+  "suite_sha256": "c494476ca7da287fbd7b4eaed033d7fa1fd4c1a6a3774851b38f1047ae38aa4f"
+}

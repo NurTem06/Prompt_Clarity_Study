@@ -1,0 +1,107 @@
+{
+  "id": "resp_0063b9f3ddebbcb7016ae2f0d4a91887d2885c4c420c0914f6",
+  "created_at": 1793257684.0,
+  "error": null,
+  "incomplete_details": null,
+  "instructions": "Solve the programming problem using Python 3. Read from standard input and write to standard output. Return only executable Python 3 source code, without Markdown or explanations.",
+  "metadata": {},
+  "model": "gpt-6.1-sol",
+  "object": "response",
+  "output": [
+    {
+      "id": "rs_0063b9f3ddebbcb7016ae2f0d5a80c87d2bf36200f7db48e76",
+      "summary": [],
+      "type": "reasoning",
+      "content": [],
+      "encrypted_content": "gAAAAABq4vDZXyF6VJWPLKGgPT5JOX1f5_mGBnzLU1BDrI7OklFs0JgxTjii10GymHA1eCQGjyFfjZ7arPn4IpgTMs44GhH9_C3MEaQyRkSQQpETJk2N4azk121WRkXyaYLuRF4HUSPI59CywrO7s9N8EHuQXKYfdAO8NqmPMJUIqtuucp1otBEuh8WFNTkZeIXZlAqk3E_1Y_RZ_Dsg9noz0kPHIEL1g1mYqLUcdc_RFw806XpHeW6n2wvsTVq94uwL1bjUr_WI59_hiCwblMe0b_sMHZCMXla7wE_tsOlMOJWv9DVfrgYRPMNzTV_NAJmMirfLIUvtu78Ad_ktRegGAr-Fp-wSCHzvaUGsTHHeELv0Wav1ED4368yLEnJYouGahpKFcnqaHFpSGLfLP8MNgr2QDZj7poYpFYvNhywjLipYT3hienhPpWh8d5EdEpKG3CScIDoK6aeC1QQD98d6FVomvaCCF_iAYZ76J0q4Ke_LVKK6IgpSKAL3Yq7S8DSAqJ2YRDFiUVrxn_senMfCLzlGE5kMkj95N6cpCUQoT_TEYXnO2teKLbL57GWHrCwhMnPycJvwrEXlPSwy1ym_cM7QHWv5cQqvR8yuGKn5rDSAwjF3c9KgW-otAKIaVSpGoR_UOSADl0wIOeYiknnu0unuII3XZkuXh_MrDA5VzY8lnoWqxts6oW8TY-t3ZhlIEeXC2xA2PeOtwKarGT9JVCdFu3cLzg9Fb3VmbVvbl9kbSnmlpN9zVMqXolwRnnvOVYy-pA_awtMcnoR84l7vk2egPbIKcRRYxMWGMWV8zfMOzRDyoYl7RjRaTjzHYz0VQyxkXqWcqIZLeUQtd29tRg3lQbXSBFmjWKm6YWmHmXmlHIE5zn1sDyErmCJ1McQuAmVE4QEw3lCah7_apGlpKIVp4inik2pvjM5VqKz879vdQjNQLdhaN9vdZAbWNfrw2bVwHgktrp6QW5903FQl-nieMi2_Cp5xfSB0WAzpyTn52d4co67ti--gvPQjVHEFES_FOpdrtgRmDOf7KcwySHdJGcoX-KcsscDV-n9s759euF__qMQMNBG719tI17Bhk4MrPhjQlwgXKFvAObhl7Jt32ejBGZOZMAFMWAJJ-v-Wki90PkZMwvzLkV2m9R96YX2hwydmFOlARuXJ7Gp8M6oeyQfs9g56X6wfY5ftCit-fNLJT88tjsi8dFdBTJ8MZ7t5wpviZFUfSYBqgOhUXyWcxxWUMIz13CRtLoaCdKhVDy6_9-IKQK0IZjL11-dYHjtXNgNdYxq-FYlSC3CNPvnpnAqKiWQAL3YeeInLAE2wEDL25dibJYTDvRc9Koi55cIRf18Dd6nEVDBegTlIqBwrxnFh455OKQj0X-PbaKrmOM77sQpazoON7Rgk_HW8vO95WPplFKO2oSWqih4Sy_F3YI-_v9yVX_sZN5AZB_ONONLLMouwX0h5vpLCM7mMGx4mu4Mghi-TEdkYunpfBEzchba4KRBNoKhmGR1TaZGr_w2BlEupOqjMUB7IIvFSDtT-PpIlbnQt-PDi7D2KQ2Dd0_mcWcBAsFGTimV4stS_nfgtB_yKewloSDRbcJcgii2X9uFRnweBAoBK-Z6LkGARzHrAl_g6PWIhOrWWpknNhwNYAQqK_8VSa7M0mlctD_iuO1XZHUQAYuc1J_BSVKX3QJQXq8v4oUCjBfIeomaCqW1fAaUwTgb3p76Ob5QSGofYraR4jUqHDwMWefgCDkGTjwiRq7HoezMVwDrC0ajmACeoVtcartmtwVF7AzeXgUr495GknCyLKmyKHXq-TtPxBWLEBBChyuTwWJRJgANWXzD1WssIMS90Kf0zq8_n0j2DLT8jPIE8Lbrf05KeIinCxgECPM8DWvvUYlJfbgDjtfAb5LzJifm7_HpA462RtHaUi1-HYfl-HP4x5VIGynalfVmW4Ty_S0C7oko8R0BkQXUP21qpLhJrS1e4ZjbS_3BUsiwb",
+      "status": null
+    },
+    {
+      "id": "msg_0063b9f3ddebbcb7016ae2f0d7002c87d2abffafa33c67f9db",
+      "content": [
+        {
+          "annotations": [],
+          "text": "import sys\n\n\ndef main():\n    data = list(map(int, sys.stdin.buffer.read().split()))\n    if not data:\n        return\n\n    n, m = data[0], data[1]\n    starts = [0] * m\n    deadlines = [0] * m\n    remaining = [0] * m\n    exam_on = [-1] * (n + 1)\n\n    pos = 2\n    for i in range(m):\n        s, d, c = data[pos:pos + 3]\n        pos += 3\n        starts[i] = s\n        deadlines[i] = d\n        remaining[i] = c\n        exam_on[d] = i\n\n    schedule = [0] * n\n\n    for day in range(1, n + 1):\n        exam = exam_on[day]\n        if exam != -1:\n            if remaining[exam]:\n                print(-1)\n                return\n            schedule[day - 1] = m + 1\n            continue\n\n        best = -1\n        for i in range(m):\n            if remaining[i] and starts[i] <= day < deadlines[i]:\n                if best == -1 or deadlines[i] < deadlines[best]:\n                    best = i\n\n        if best != -1:\n            schedule[day - 1] = best + 1\n            remaining[best] -= 1\n\n    print(*schedule)\n\n\nif __name__ == \"__main__\":\n    main()",
+          "type": "output_text",
+          "logprobs": []
+        }
+      ],
+      "role": "assistant",
+      "status": "completed",
+      "type": "message",
+      "phase": "final_answer"
+    }
+  ],
+  "parallel_tool_calls": true,
+  "temperature": 1.0,
+  "tool_choice": "auto",
+  "tools": [],
+  "top_p": 0.98,
+  "background": false,
+  "completed_at": 1793257689.0,
+  "conversation": null,
+  "max_output_tokens": 16000,
+  "max_tool_calls": null,
+  "moderation": null,
+  "previous_response_id": null,
+  "prompt": null,
+  "prompt_cache_key": null,
+  "prompt_cache_options": null,
+  "prompt_cache_retention": "24h",
+  "reasoning": {
+    "context": "all_turns",
+    "effort": "medium",
+    "generate_summary": null,
+    "mode": "standard",
+    "summary": null
+  },
+  "safety_identifier": null,
+  "service_tier": "default",
+  "status": "completed",
+  "text": {
+    "format": {
+      "type": "text"
+    },
+    "verbosity": "medium"
+  },
+  "top_logprobs": 0,
+  "truncation": "disabled",
+  "usage": {
+    "input_tokens": 945,
+    "input_tokens_details": {
+      "cache_write_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens": 355,
+    "output_tokens_details": {
+      "reasoning_tokens": 42
+    },
+    "total_tokens": 1300
+  },
+  "user": null,
+  "access_programs": null,
+  "billing": {
+    "payer": "developer"
+  },
+  "frequency_penalty": 0.0,
+  "presence_penalty": 0.0,
+  "store": false,
+  "tool_usage": {
+    "image_gen": {
+      "input_tokens": 0,
+      "input_tokens_details": {
+        "image_tokens": 0,
+        "text_tokens": 0
+      },
+      "output_tokens": 0,
+      "output_tokens_details": {
+        "image_tokens": 0,
+        "text_tokens": 0
+      },
+      "total_tokens": 0
+    },
+    "web_search": {
+      "num_requests": 0
+    }
+  }
+}

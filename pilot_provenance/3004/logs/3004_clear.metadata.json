@@ -1,0 +1,30 @@
+{
+  "problem_id": 3004,
+  "difficulty": "competition",
+  "condition": "clear",
+  "model_requested": "gpt-6.1-sol",
+  "reasoning": {
+    "mode": "standard",
+    "effort": "medium"
+  },
+  "max_output_tokens": 16000,
+  "prompt_sha256": "7c856bb78ea3123ee41f876a7029fe896dcf47fa916069494276354d01af7a13",
+  "system_message": "Solve the programming problem using Python 3. Read from standard input and write to standard output. Return only executable Python 3 source code, without Markdown or explanations.",
+  "started_at_utc": "2026-10-29T05:52:04.971126+00:00",
+  "response_id": "resp_06742b1d16f507d4016ae2df0577fc87d29d5fcafd5a7e4561",
+  "model_returned": "gpt-6.1-sol",
+  "status": "completed",
+  "usage": {
+    "input_tokens": 458,
+    "input_tokens_details": {
+      "cache_write_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens": 2236,
+    "output_tokens_details": {
+      "reasoning_tokens": 1408
+    },
+    "total_tokens": 2694
+  },
+  "finished_at_utc": "2026-10-29T05:52:56.224276+00:00"
+}

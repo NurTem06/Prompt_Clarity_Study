@@ -1,0 +1,26 @@
+import sys
+
+def main():
+    data = list(map(int, sys.stdin.buffer.read().split()))
+    n, k = data[0], data[1]
+    a = data[2:2 + n]
+
+    groups = {}
+    for i, value in enumerate(a):
+        groups.setdefault(value, []).append(i)
+
+    if any(len(indices) > k for indices in groups.values()):
+        sys.stdout.write("NO\n")
+        return
+
+    colors = [0] * n
+    current = 0
+    for indices in groups.values():
+        for i in indices:
+            colors[i] = current % k + 1
+            current += 1
+
+    sys.stdout.write("YES\n" + " ".join(map(str, colors)) + "\n")
+
+if __name__ == "__main__":
+    main()

@@ -1,0 +1,107 @@
+{
+  "id": "resp_02e17152746fd844016ae2f10d34a887d29d32a91ab5bb8cbc",
+  "created_at": 1793257741.0,
+  "error": null,
+  "incomplete_details": null,
+  "instructions": "Solve the programming problem using Python 3. Read from standard input and write to standard output. Return only executable Python 3 source code, without Markdown or explanations.",
+  "metadata": {},
+  "model": "gpt-6.1-sol",
+  "object": "response",
+  "output": [
+    {
+      "id": "rs_02e17152746fd844016ae2f10de07887d29286b6442b2fb00b",
+      "summary": [],
+      "type": "reasoning",
+      "content": [],
+      "encrypted_content": "gAAAAABq4vETdZnHjvJS_rIojO16KiAXkinajA77HFyEJOeP6dHyeFHFGGjYuZyvsGezT0JAIYFME-0yrlJUtaaCuDfC9P3MNdlnLZd_gruI7xnQZll0yMNjObKD44YVup3yRUqgwyPqhfZHEMaKfZYKTfy1pIJb4Z2fFi-QhE-mGd3QU6m7NH7foR-QZYgiWRajWoOebCtkX_lY_g71_c-Y1ubMq6RIOo28H8poYBLFoKMUqX-LDHF42ZNh2hSAz46G4CBM0_H04EvCFDbP8hSDo3_ciXhstd01R6LgwD862TBvHdzepfsFOIorD4aq_uHPPPQ52dLnZg1Lprsm1rTbvcAu6QB_QNxz8wz5YKXpu0HII-zRvbxCT-E-3xUPpPM-bQBT0buWn05gDY-K0XjuYOtAGtShg8RzB-JbQJN7SKK0Ss4iopvXHpZIG3INQm5hrlvZ904J1rS1RVvgtlAVfCYiHGXMGSEsW_tGqdZ_KtAjiiSTSnkYA02DPRgMepDbZ4M7ir041cbuDQDNCcAf5szRRZGPJaGMQzinovZGS7pZKR5Q3Ui25OOg6IgNMZzntNTpm1MgE1UmZaE8Dhn0FByhMXXg5L83-Y2wpFl3WMLOG4uu4fyrmikrQ9E-dRS7OndYk8wXK1pBftmJC0xYTnMKYxpASMGiKmm8ozP7zAwVEeAckylOSEJvU707JS6BmCW075tuPey2fxejdwVompIammrsXbJldWI1yNXbBNTZD0Kj1WbX6ZnSe_TIsZ7EhWMeA18NHek7SQ40_dH4VnparvCxM8BBu4BeZqSXWQ2bufliLwIslo6-zxYG5VMBiCl0ggafnkvtpZqOqWgemCu8CeWQn4OQ7yZGfawSi6rcOxl45yJfDKLWEqQ3nP9u8uETBYNhqQOpYT90vi79-cVIvt_HPd5Vwd5Nf4neA30VsBb37AA0gI0Z3SoHZC8egUBwziuZwqV7LVDTiH0kI_NKEiE7zw3KcD423harItm9xEnBXV6GbcKI5ePVUt17vDT0PPRi7xsMBAcpdVXUkqhBP2sePXx_KCPjE8Sz1TQtp_oR6ABJPE6F_0GIS3RYFgHyvZoPgRsT1-0H5ngaibXfowB2GTTQL4bR3eEVxXyzK5EvVIxaexkSArH6gB5gD85xuZL-gklBycJM6zjBNSvpiEFdxVbYlRGWNIE7KBLppE-uqKEy3y01Y8bi_z3EZ4fDjFoATipsFyLdCG7KsPtwYkxApjtKuGm6nZKiEMvK9hWj025d6IwNhJoU6IihkfwhFBFSOS3v27Em6j2mujzYf4Y0Dhs3avshJBQ-QahVaE_JpT3Mpc43ySkbs-i2AuuRO97zxMaZN9fzR5mQCnPvOwEPtO8CdKOdX9w35ves5ErIxSX9egtHpaJ5eGw_mVqoBR59Pjo1BZPSXjs-cKlY68qSDbf8dCv_tpC0yNMnOWMSolNku4eZ5C20rXM3qZWSlE7gsCzfzCfd98BcIw5ExjWjNZXBFwJXH4gPL50s7c0fpgMfyCtlGwPXJ8mRxAjb6VdwN6SDi_sp_TnLFarlZ6YHYxkcPtWiJNT_R-hr4lMjBtcUV6H7244bkQquRCdL675XtqS-ibX6lAjQ9Xw8CWlOgkFRrBbYltf-ln8-CQ_YiZb0MfQQZjH0zgWvM2v44Cvi3oZf69jqYHpxvzM1LTk1gfP6FsQigFD2RMP9gkCAtFWs3rIS8cZ0bM8KuocVn0b4QIah4plNk3iEuAvNsVlHh0UgoLKrOzC1qP1S8p-Rmv78bCfPsrqCg6Kq9gXMGqrQvWWXaxMsRiYduiekGpKkCe7zLuXBbSxFJLPJVsrBnNnqYRhNmZZKU4nonQiNCCAmdAgVHlxcDBgEpGS0RCk7DEMgcas2rILgpjeDUTYHLsjBs_-dvz5hW8fsWqjYJ7r3OcO7TEAZ3zxPt24n7uq5G4l0Xe6xLAg3WbXEaf6K14f8VvfvYcd9Iw7bec7UWKshgytMdSIudQgocmDp21F6-lCXnULfROe2ibrYWP9wMYjcCeRt4Dd1Nqgo70uNDlUwVD0JbxGu0Tk89W1GICqIA3zyZwNi01yMuplKSBdGe7WsLX41_gOFhi2C6vmtD0emK4Zj1U0eV-BCs0PuLw6b7yPzwgmaxCyuNknXyPgctGefO0QOaNXuVn_kZVGaRabSqW0UnLSYYd_ryAqW9O56GdayfLabZOY2HQUFXwZR-dTnMPvHYm4cVJvLh0GH-WoxhNXaWY1UWjvjOBNNn7amgr3eCRMuwK3cp5HeKuwCftyuO5NzQ9aCbMqRrQZu6_okkg8P1XcO6u20Ot51G6_kZjXJdJh5jUuzEVKndK__o6ivBb0NJ4buYwyco9oP9J3TFOh3RTwNb3KxvkPivMWc5cXqVynICFNI-4N4dPJ8P7gv3-x-wK3qwVgsGEaQs2JdUdW0qRA-1cB2QCOmhKZ6rDsyqSWSYCCQeOtGTYPLoD_Dm8pO_A-Yd7HKQ5RjtQSJfoplI0KgRjeyK-cPV5xN6n_wFEbJ9naEe_Rq5xbKqV2DR7GmZM3BgbVfd7Dkwwz3auBe_gQLQczWuD8_uy1u9aSh0oJ-cV2B0yDRCfof9T1o8Gv-J8LGqz0vLStYecnp",
+      "status": null
+    },
+    {
+      "id": "msg_02e17152746fd844016ae2f110f01887d2a68d36ada34d53aa",
+      "content": [
+        {
+          "annotations": [],
+          "text": "import sys\nfrom functools import lru_cache\n\n\ndef main():\n    s = sys.stdin.buffer.read().strip().decode()\n    if not s:\n        return\n\n    digits = tuple(map(int, s))\n    falling = False\n\n    for a, b in zip(digits, digits[1:]):\n        if b < a:\n            falling = True\n        elif b > a and falling:\n            print(-1)\n            return\n\n    length = len(digits)\n\n    @lru_cache(maxsize=None)\n    def count(pos, last, falling, tight):\n        if pos == length:\n            return 1\n\n        limit = digits[pos] if tight else 9\n        if falling:\n            limit = min(limit, last)\n\n        total = 0\n        for digit in range(limit + 1):\n            total += count(\n                pos + 1,\n                digit,\n                falling or digit < last,\n                tight and digit == digits[pos],\n            )\n        return total\n\n    print(count(0, 0, False, True) - 1)\n\n\nif __name__ == \"__main__\":\n    main()",
+          "type": "output_text",
+          "logprobs": []
+        }
+      ],
+      "role": "assistant",
+      "status": "completed",
+      "type": "message",
+      "phase": "final_answer"
+    }
+  ],
+  "parallel_tool_calls": true,
+  "temperature": 1.0,
+  "tool_choice": "auto",
+  "tools": [],
+  "top_p": 0.98,
+  "background": false,
+  "completed_at": 1793257747.0,
+  "conversation": null,
+  "max_output_tokens": 16000,
+  "max_tool_calls": null,
+  "moderation": null,
+  "previous_response_id": null,
+  "prompt": null,
+  "prompt_cache_key": null,
+  "prompt_cache_options": null,
+  "prompt_cache_retention": "24h",
+  "reasoning": {
+    "context": "all_turns",
+    "effort": "medium",
+    "generate_summary": null,
+    "mode": "standard",
+    "summary": null
+  },
+  "safety_identifier": null,
+  "service_tier": "default",
+  "status": "completed",
+  "text": {
+    "format": {
+      "type": "text"
+    },
+    "verbosity": "medium"
+  },
+  "top_logprobs": 0,
+  "truncation": "disabled",
+  "usage": {
+    "input_tokens": 302,
+    "input_tokens_details": {
+      "cache_write_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens": 336,
+    "output_tokens_details": {
+      "reasoning_tokens": 100
+    },
+    "total_tokens": 638
+  },
+  "user": null,
+  "access_programs": null,
+  "billing": {
+    "payer": "developer"
+  },
+  "frequency_penalty": 0.0,
+  "presence_penalty": 0.0,
+  "store": false,
+  "tool_usage": {
+    "image_gen": {
+      "input_tokens": 0,
+      "input_tokens_details": {
+        "image_tokens": 0,
+        "text_tokens": 0
+      },
+      "output_tokens": 0,
+      "output_tokens_details": {
+        "image_tokens": 0,
+        "text_tokens": 0
+      },
+      "total_tokens": 0
+    },
+    "web_search": {
+      "num_requests": 0
+    }
+  }
+}

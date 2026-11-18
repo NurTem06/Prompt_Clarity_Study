@@ -1,0 +1,30 @@
+{
+  "scope": "available test suites only",
+  "warning": "Not a final study result until all selected tasks have independently reviewed prompt pairs and valid test suites.",
+  "tiers": {
+    "introductory": {
+      "total_tasks": 15,
+      "paired_tasks_evaluated": 15,
+      "clear_pass_at_1": 1.0,
+      "ambiguous_pass_at_1": 1.0,
+      "discordant_clear_only": 0,
+      "discordant_ambiguous_only": 0
+    },
+    "interview": {
+      "total_tasks": 15,
+      "paired_tasks_evaluated": 15,
+      "clear_pass_at_1": 1.0,
+      "ambiguous_pass_at_1": 1.0,
+      "discordant_clear_only": 0,
+      "discordant_ambiguous_only": 0
+    },
+    "competition": {
+      "total_tasks": 15,
+      "paired_tasks_evaluated": 15,
+      "clear_pass_at_1": 0.9333333333333333,
+      "ambiguous_pass_at_1": 0.8666666666666667,
+      "discordant_clear_only": 1,
+      "discordant_ambiguous_only": 0
+    }
+  }
+}

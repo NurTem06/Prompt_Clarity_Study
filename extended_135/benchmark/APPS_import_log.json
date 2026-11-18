@@ -1,0 +1,1217 @@
+[
+  {
+    "person": "person_1",
+    "problem_id": "15",
+    "status": "CACHED",
+    "case_count": 178,
+    "checker": "reference_tokens",
+    "validation_scope": "reference_comparison_unique_output_candidate",
+    "detail": ""
+  },
+  {
+    "person": "person_1",
+    "problem_id": "16",
+    "status": "CACHED",
+    "case_count": 173,
+    "checker": "reference_tokens",
+    "validation_scope": "reference_comparison_unique_output_candidate",
+    "detail": ""
+  },
+  {
+    "person": "person_1",
+    "problem_id": "17",
+    "status": "CACHED",
+    "case_count": 166,
+    "checker": "reference_tokens",
+    "validation_scope": "reference_comparison_unique_output_candidate",
+    "detail": ""
+  },
+  {
+    "person": "person_1",
+    "problem_id": "18",
+    "status": "CACHED",
+    "case_count": 164,
+    "checker": "reference_tokens",
+    "validation_scope": "reference_comparison_unique_output_candidate",
+    "detail": ""
+  },
+  {
+    "person": "person_1",
+    "problem_id": "19",
+    "status": "CACHED",
+    "case_count": 164,
+    "checker": "reference_tokens",
+    "validation_scope": "reference_comparison_unique_output_candidate",
+    "detail": ""
+  },
+  {
+    "person": "person_1",
+    "problem_id": "20",
+    "status": "CACHED",
+    "case_count": 160,
+    "checker": "reference_tokens",
+    "validation_scope": "reference_comparison_unique_output_candidate",
+    "detail": ""
+  },
+  {
+    "person": "person_1",
+    "problem_id": "21",
+    "status": "CACHED",
+    "case_count": 159,
+    "checker": "reference_tokens",
+    "validation_scope": "reference_comparison_unique_output_candidate",
+    "detail": ""
+  },
+  {
+    "person": "person_1",
+    "problem_id": "22",
+    "status": "CACHED",
+    "case_count": 157,
+    "checker": "reference_tokens",
+    "validation_scope": "reference_comparison_unique_output_candidate",
+    "detail": ""
+  },
+  {
+    "person": "person_1",
+    "problem_id": "23",
+    "status": "CACHED",
+    "case_count": 157,
+    "checker": "reference_tokens",
+    "validation_scope": "reference_only_multi_output_REQUIRES_REVIEW",
+    "detail": ""
+  },
+  {
+    "person": "person_1",
+    "problem_id": "24",
+    "status": "CACHED",
+    "case_count": 156,
+    "checker": "reference_tokens",
+    "validation_scope": "reference_comparison_unique_output_candidate",
+    "detail": ""
+  },
+  {
+    "person": "person_1",
+    "problem_id": "25",
+    "status": "CACHED",
+    "case_count": 156,
+    "checker": "reference_tokens",
+    "validation_scope": "reference_comparison_unique_output_candidate",
+    "detail": ""
+  },
+  {
+    "person": "person_1",
+    "problem_id": "26",
+    "status": "CACHED",
+    "case_count": 152,
+    "checker": "reference_tokens",
+    "validation_scope": "reference_comparison_unique_output_candidate",
+    "detail": ""
+  },
+  {
+    "person": "person_1",
+    "problem_id": "27",
+    "status": "CACHED",
+    "case_count": 148,
+    "checker": "reference_tokens",
+    "validation_scope": "reference_comparison_unique_output_candidate",
+    "detail": ""
+  },
+  {
+    "person": "person_1",
+    "problem_id": "28",
+    "status": "CACHED",
+    "case_count": 146,
+    "checker": "semantic",
+    "validation_scope": "semantic_checker_reviewed",
+    "detail": ""
+  },
+  {
+    "person": "person_1",
+    "problem_id": "29",
+    "status": "CACHED",
+    "case_count": 145,
+    "checker": "reference_tokens",
+    "validation_scope": "reference_comparison_unique_output_candidate",
+    "detail": ""
+  },
+  {
+    "person": "person_1",
+    "problem_id": "3015",
+    "status": "CACHED",
+    "case_count": 5,
+    "checker": "reference_tokens",
+    "validation_scope": "reference_comparison_unique_output_candidate",
+    "detail": ""
+  },
+  {
+    "person": "person_1",
+    "problem_id": "3016",
+    "status": "CACHED",
+    "case_count": 5,
+    "checker": "reference_tokens",
+    "validation_scope": "reference_comparison_unique_output_candidate",
+    "detail": ""
+  },
+  {
+    "person": "person_1",
+    "problem_id": "3017",
+    "status": "CACHED",
+    "case_count": 5,
+    "checker": "reference_tokens",
+    "validation_scope": "reference_comparison_unique_output_candidate",
+    "detail": ""
+  },
+  {
+    "person": "person_1",
+    "problem_id": "3018",
+    "status": "CACHED",
+    "case_count": 4,
+    "checker": "reference_tokens",
+    "validation_scope": "reference_comparison_unique_output_candidate",
+    "detail": ""
+  },
+  {
+    "person": "person_1",
+    "problem_id": "3019",
+    "status": "CACHED",
+    "case_count": 4,
+    "checker": "reference_tokens",
+    "validation_scope": "reference_comparison_unique_output_candidate",
+    "detail": ""
+  },
+  {
+    "person": "person_1",
+    "problem_id": "3020",
+    "status": "CACHED",
+    "case_count": 4,
+    "checker": "reference_tokens",
+    "validation_scope": "reference_comparison_unique_output_candidate",
+    "detail": ""
+  },
+  {
+    "person": "person_1",
+    "problem_id": "3021",
+    "status": "CACHED",
+    "case_count": 4,
+    "checker": "reference_tokens",
+    "validation_scope": "reference_only_multi_output_REQUIRES_REVIEW",
+    "detail": ""
+  },
+  {
+    "person": "person_1",
+    "problem_id": "3022",
+    "status": "CACHED",
+    "case_count": 4,
+    "checker": "reference_tokens",
+    "validation_scope": "reference_comparison_unique_output_candidate",
+    "detail": ""
+  },
+  {
+    "person": "person_1",
+    "problem_id": "3023",
+    "status": "CACHED",
+    "case_count": 4,
+    "checker": "reference_tokens",
+    "validation_scope": "reference_comparison_unique_output_candidate",
+    "detail": ""
+  },
+  {
+    "person": "person_1",
+    "problem_id": "3024",
+    "status": "CACHED",
+    "case_count": 4,
+    "checker": "reference_tokens",
+    "validation_scope": "reference_comparison_unique_output_candidate",
+    "detail": ""
+  },
+  {
+    "person": "person_1",
+    "problem_id": "3025",
+    "status": "CACHED",
+    "case_count": 4,
+    "checker": "reference_tokens",
+    "validation_scope": "reference_comparison_unique_output_candidate",
+    "detail": ""
+  },
+  {
+    "person": "person_1",
+    "problem_id": "3026",
+    "status": "CACHED",
+    "case_count": 4,
+    "checker": "reference_tokens",
+    "validation_scope": "reference_comparison_unique_output_candidate",
+    "detail": ""
+  },
+  {
+    "person": "person_1",
+    "problem_id": "3027",
+    "status": "CACHED",
+    "case_count": 4,
+    "checker": "reference_tokens",
+    "validation_scope": "reference_comparison_unique_output_candidate",
+    "detail": ""
+  },
+  {
+    "person": "person_1",
+    "problem_id": "3028",
+    "status": "CACHED",
+    "case_count": 4,
+    "checker": "semantic",
+    "validation_scope": "semantic_checker_reviewed",
+    "detail": ""
+  },
+  {
+    "person": "person_1",
+    "problem_id": "3029",
+    "status": "CACHED",
+    "case_count": 4,
+    "checker": "reference_tokens",
+    "validation_scope": "reference_comparison_unique_output_candidate",
+    "detail": ""
+  },
+  {
+    "person": "person_1",
+    "problem_id": "4015",
+    "status": "CACHED",
+    "case_count": 77,
+    "checker": "reference_tokens",
+    "validation_scope": "reference_comparison_unique_output_candidate",
+    "detail": ""
+  },
+  {
+    "person": "person_1",
+    "problem_id": "4016",
+    "status": "CACHED",
+    "case_count": 75,
+    "checker": "reference_tokens",
+    "validation_scope": "reference_comparison_unique_output_candidate",
+    "detail": ""
+  },
+  {
+    "person": "person_1",
+    "problem_id": "4017",
+    "status": "CACHED",
+    "case_count": 71,
+    "checker": "semantic",
+    "validation_scope": "semantic_checker_reviewed",
+    "detail": ""
+  },
+  {
+    "person": "person_1",
+    "problem_id": "4018",
+    "status": "CACHED",
+    "case_count": 70,
+    "checker": "reference_tokens",
+    "validation_scope": "reference_comparison_unique_output_candidate",
+    "detail": ""
+  },
+  {
+    "person": "person_1",
+    "problem_id": "4019",
+    "status": "CACHED",
+    "case_count": 73,
+    "checker": "semantic",
+    "validation_scope": "semantic_checker_reviewed",
+    "detail": ""
+  },
+  {
+    "person": "person_1",
+    "problem_id": "4020",
+    "status": "CACHED",
+    "case_count": 66,
+    "checker": "reference_tokens",
+    "validation_scope": "reference_comparison_unique_output_candidate",
+    "detail": ""
+  },
+  {
+    "person": "person_1",
+    "problem_id": "4021",
+    "status": "CACHED",
+    "case_count": 64,
+    "checker": "reference_tokens",
+    "validation_scope": "reference_comparison_unique_output_candidate",
+    "detail": ""
+  },
+  {
+    "person": "person_1",
+    "problem_id": "4022",
+    "status": "CACHED",
+    "case_count": 62,
+    "checker": "reference_tokens",
+    "validation_scope": "reference_comparison_unique_output_candidate",
+    "detail": ""
+  },
+  {
+    "person": "person_1",
+    "problem_id": "4023",
+    "status": "CACHED",
+    "case_count": 59,
+    "checker": "reference_tokens",
+    "validation_scope": "reference_comparison_unique_output_candidate",
+    "detail": ""
+  },
+  {
+    "person": "person_1",
+    "problem_id": "4024",
+    "status": "CACHED",
+    "case_count": 59,
+    "checker": "reference_tokens",
+    "validation_scope": "reference_comparison_unique_output_candidate",
+    "detail": ""
+  },
+  {
+    "person": "person_1",
+    "problem_id": "4025",
+    "status": "CACHED",
+    "case_count": 56,
+    "checker": "reference_tokens",
+    "validation_scope": "reference_comparison_unique_output_candidate",
+    "detail": ""
+  },
+  {
+    "person": "person_1",
+    "problem_id": "4026",
+    "status": "CACHED",
+    "case_count": 56,
+    "checker": "reference_tokens",
+    "validation_scope": "reference_comparison_unique_output_candidate",
+    "detail": ""
+  },
+  {
+    "person": "person_1",
+    "problem_id": "4027",
+    "status": "CACHED",
+    "case_count": 54,
+    "checker": "reference_tokens",
+    "validation_scope": "reference_comparison_unique_output_candidate",
+    "detail": ""
+  },
+  {
+    "person": "person_1",
+    "problem_id": "4028",
+    "status": "CACHED",
+    "case_count": 52,
+    "checker": "reference_tokens",
+    "validation_scope": "reference_comparison_unique_output_candidate",
+    "detail": ""
+  },
+  {
+    "person": "person_1",
+    "problem_id": "4029",
+    "status": "CACHED",
+    "case_count": 52,
+    "checker": "reference_tokens",
+    "validation_scope": "reference_comparison_unique_output_candidate",
+    "detail": ""
+  },
+  {
+    "person": "person_2",
+    "problem_id": "30",
+    "status": "CACHED",
+    "case_count": 143,
+    "checker": "reference_tokens",
+    "validation_scope": "reference_comparison_unique_output_candidate",
+    "detail": ""
+  },
+  {
+    "person": "person_2",
+    "problem_id": "3030",
+    "status": "CACHED",
+    "case_count": 4,
+    "checker": "reference_tokens",
+    "validation_scope": "reference_comparison_unique_output_candidate",
+    "detail": ""
+  },
+  {
+    "person": "person_2",
+    "problem_id": "3031",
+    "status": "CACHED",
+    "case_count": 4,
+    "checker": "reference_tokens",
+    "validation_scope": "reference_comparison_unique_output_candidate",
+    "detail": ""
+  },
+  {
+    "person": "person_2",
+    "problem_id": "3032",
+    "status": "IMPORTED",
+    "case_count": 4,
+    "checker": "reference_tokens",
+    "validation_scope": "reference_comparison_unique_output_candidate",
+    "detail": "id_and_question_exact_prefix"
+  },
+  {
+    "person": "person_2",
+    "problem_id": "3033",
+    "status": "IMPORTED",
+    "case_count": 4,
+    "checker": "reference_tokens",
+    "validation_scope": "reference_comparison_unique_output_candidate",
+    "detail": "id_and_question_exact_prefix"
+  },
+  {
+    "person": "person_2",
+    "problem_id": "3034",
+    "status": "IMPORTED",
+    "case_count": 4,
+    "checker": "numeric_tolerance",
+    "validation_scope": "numeric_tolerance_from_problem_statement",
+    "detail": "id_and_question_exact_prefix"
+  },
+  {
+    "person": "person_2",
+    "problem_id": "3035",
+    "status": "IMPORTED",
+    "case_count": 4,
+    "checker": "numeric_tolerance",
+    "validation_scope": "numeric_tolerance_from_problem_statement",
+    "detail": "id_and_question_exact_prefix"
+  },
+  {
+    "person": "person_2",
+    "problem_id": "3036",
+    "status": "IMPORTED",
+    "case_count": 4,
+    "checker": "reference_tokens",
+    "validation_scope": "reference_comparison_unique_output_candidate",
+    "detail": "id_and_question_exact_prefix"
+  },
+  {
+    "person": "person_2",
+    "problem_id": "3037",
+    "status": "IMPORTED",
+    "case_count": 4,
+    "checker": "reference_tokens",
+    "validation_scope": "reference_comparison_unique_output_candidate",
+    "detail": "id_and_question_exact_prefix"
+  },
+  {
+    "person": "person_2",
+    "problem_id": "3038",
+    "status": "IMPORTED",
+    "case_count": 4,
+    "checker": "reference_tokens",
+    "validation_scope": "reference_comparison_unique_output_candidate",
+    "detail": "id_and_question_exact_prefix"
+  },
+  {
+    "person": "person_2",
+    "problem_id": "3039",
+    "status": "IMPORTED",
+    "case_count": 4,
+    "checker": "reference_tokens",
+    "validation_scope": "reference_comparison_unique_output_candidate",
+    "detail": "id_and_question_exact_prefix"
+  },
+  {
+    "person": "person_2",
+    "problem_id": "3040",
+    "status": "IMPORTED",
+    "case_count": 4,
+    "checker": "reference_tokens",
+    "validation_scope": "reference_comparison_unique_output_candidate",
+    "detail": "id_and_question_exact_prefix"
+  },
+  {
+    "person": "person_2",
+    "problem_id": "3041",
+    "status": "IMPORTED",
+    "case_count": 4,
+    "checker": "reference_tokens",
+    "validation_scope": "reference_comparison_unique_output_candidate",
+    "detail": "id_and_question_exact_prefix"
+  },
+  {
+    "person": "person_2",
+    "problem_id": "3042",
+    "status": "IMPORTED",
+    "case_count": 4,
+    "checker": "reference_tokens",
+    "validation_scope": "reference_comparison_unique_output_candidate",
+    "detail": "id_and_question_exact_prefix"
+  },
+  {
+    "person": "person_2",
+    "problem_id": "3043",
+    "status": "IMPORTED",
+    "case_count": 4,
+    "checker": "reference_tokens",
+    "validation_scope": "reference_comparison_unique_output_candidate",
+    "detail": "id_and_question_exact_prefix"
+  },
+  {
+    "person": "person_2",
+    "problem_id": "3044",
+    "status": "IMPORTED",
+    "case_count": 4,
+    "checker": "reference_tokens",
+    "validation_scope": "reference_comparison_unique_output_candidate",
+    "detail": "id_and_question_exact_prefix"
+  },
+  {
+    "person": "person_2",
+    "problem_id": "31",
+    "status": "CACHED",
+    "case_count": 139,
+    "checker": "reference_tokens",
+    "validation_scope": "reference_comparison_unique_output_candidate",
+    "detail": ""
+  },
+  {
+    "person": "person_2",
+    "problem_id": "32",
+    "status": "CACHED",
+    "case_count": 137,
+    "checker": "reference_tokens",
+    "validation_scope": "reference_comparison_unique_output_candidate",
+    "detail": ""
+  },
+  {
+    "person": "person_2",
+    "problem_id": "33",
+    "status": "CACHED",
+    "case_count": 135,
+    "checker": "reference_tokens",
+    "validation_scope": "reference_comparison_unique_output_candidate",
+    "detail": ""
+  },
+  {
+    "person": "person_2",
+    "problem_id": "34",
+    "status": "CACHED",
+    "case_count": 135,
+    "checker": "reference_tokens",
+    "validation_scope": "reference_comparison_unique_output_candidate",
+    "detail": ""
+  },
+  {
+    "person": "person_2",
+    "problem_id": "35",
+    "status": "CACHED",
+    "case_count": 135,
+    "checker": "reference_tokens",
+    "validation_scope": "reference_comparison_unique_output_candidate",
+    "detail": ""
+  },
+  {
+    "person": "person_2",
+    "problem_id": "36",
+    "status": "CACHED",
+    "case_count": 135,
+    "checker": "reference_tokens",
+    "validation_scope": "reference_comparison_unique_output_candidate",
+    "detail": ""
+  },
+  {
+    "person": "person_2",
+    "problem_id": "37",
+    "status": "CACHED",
+    "case_count": 134,
+    "checker": "reference_tokens",
+    "validation_scope": "reference_comparison_unique_output_candidate",
+    "detail": ""
+  },
+  {
+    "person": "person_2",
+    "problem_id": "38",
+    "status": "CACHED",
+    "case_count": 134,
+    "checker": "reference_tokens",
+    "validation_scope": "reference_comparison_unique_output_candidate",
+    "detail": ""
+  },
+  {
+    "person": "person_2",
+    "problem_id": "39",
+    "status": "CACHED",
+    "case_count": 133,
+    "checker": "reference_tokens",
+    "validation_scope": "reference_comparison_unique_output_candidate",
+    "detail": ""
+  },
+  {
+    "person": "person_2",
+    "problem_id": "40",
+    "status": "CACHED",
+    "case_count": 132,
+    "checker": "reference_tokens",
+    "validation_scope": "reference_comparison_unique_output_candidate",
+    "detail": ""
+  },
+  {
+    "person": "person_2",
+    "problem_id": "4030",
+    "status": "CACHED",
+    "case_count": 49,
+    "checker": "semantic",
+    "validation_scope": "semantic_checker_reviewed",
+    "detail": ""
+  },
+  {
+    "person": "person_2",
+    "problem_id": "4031",
+    "status": "CACHED",
+    "case_count": 49,
+    "checker": "reference_tokens",
+    "validation_scope": "reference_comparison_unique_output_candidate",
+    "detail": ""
+  },
+  {
+    "person": "person_2",
+    "problem_id": "4032",
+    "status": "CACHED",
+    "case_count": 48,
+    "checker": "reference_tokens",
+    "validation_scope": "reference_comparison_unique_output_candidate",
+    "detail": ""
+  },
+  {
+    "person": "person_2",
+    "problem_id": "4033",
+    "status": "CACHED",
+    "case_count": 48,
+    "checker": "reference_tokens",
+    "validation_scope": "reference_comparison_unique_output_candidate",
+    "detail": ""
+  },
+  {
+    "person": "person_2",
+    "problem_id": "4034",
+    "status": "CACHED",
+    "case_count": 48,
+    "checker": "semantic",
+    "validation_scope": "semantic_checker_reviewed",
+    "detail": ""
+  },
+  {
+    "person": "person_2",
+    "problem_id": "4035",
+    "status": "CACHED",
+    "case_count": 48,
+    "checker": "reference_tokens",
+    "validation_scope": "reference_comparison_unique_output_candidate",
+    "detail": ""
+  },
+  {
+    "person": "person_2",
+    "problem_id": "4036",
+    "status": "CACHED",
+    "case_count": 46,
+    "checker": "semantic",
+    "validation_scope": "semantic_checker_reviewed",
+    "detail": ""
+  },
+  {
+    "person": "person_2",
+    "problem_id": "4037",
+    "status": "CACHED",
+    "case_count": 46,
+    "checker": "reference_tokens",
+    "validation_scope": "reference_comparison_unique_output_candidate",
+    "detail": ""
+  },
+  {
+    "person": "person_2",
+    "problem_id": "4038",
+    "status": "CACHED",
+    "case_count": 45,
+    "checker": "semantic",
+    "validation_scope": "semantic_checker_reviewed",
+    "detail": ""
+  },
+  {
+    "person": "person_2",
+    "problem_id": "4039",
+    "status": "CACHED",
+    "case_count": 45,
+    "checker": "reference_tokens",
+    "validation_scope": "reference_comparison_unique_output_candidate",
+    "detail": ""
+  },
+  {
+    "person": "person_2",
+    "problem_id": "4040",
+    "status": "CACHED",
+    "case_count": 45,
+    "checker": "reference_tokens",
+    "validation_scope": "reference_comparison_unique_output_candidate",
+    "detail": ""
+  },
+  {
+    "person": "person_2",
+    "problem_id": "4041",
+    "status": "CACHED",
+    "case_count": 44,
+    "checker": "reference_tokens",
+    "validation_scope": "reference_comparison_unique_output_candidate",
+    "detail": ""
+  },
+  {
+    "person": "person_2",
+    "problem_id": "4042",
+    "status": "CACHED",
+    "case_count": 44,
+    "checker": "semantic",
+    "validation_scope": "semantic_checker_reviewed",
+    "detail": ""
+  },
+  {
+    "person": "person_2",
+    "problem_id": "4043",
+    "status": "CACHED",
+    "case_count": 48,
+    "checker": "semantic",
+    "validation_scope": "semantic_checker_reviewed",
+    "detail": ""
+  },
+  {
+    "person": "person_2",
+    "problem_id": "4044",
+    "status": "CACHED",
+    "case_count": 43,
+    "checker": "semantic",
+    "validation_scope": "semantic_checker_reviewed",
+    "detail": ""
+  },
+  {
+    "person": "person_2",
+    "problem_id": "41",
+    "status": "CACHED",
+    "case_count": 132,
+    "checker": "reference_tokens",
+    "validation_scope": "reference_comparison_unique_output_candidate",
+    "detail": ""
+  },
+  {
+    "person": "person_2",
+    "problem_id": "42",
+    "status": "CACHED",
+    "case_count": 131,
+    "checker": "reference_tokens",
+    "validation_scope": "reference_comparison_unique_output_candidate",
+    "detail": ""
+  },
+  {
+    "person": "person_2",
+    "problem_id": "43",
+    "status": "CACHED",
+    "case_count": 130,
+    "checker": "semantic",
+    "validation_scope": "semantic_checker_reviewed",
+    "detail": ""
+  },
+  {
+    "person": "person_2",
+    "problem_id": "44",
+    "status": "CACHED",
+    "case_count": 129,
+    "checker": "reference_tokens",
+    "validation_scope": "reference_comparison_unique_output_candidate",
+    "detail": ""
+  },
+  {
+    "person": "person_3",
+    "problem_id": "3045",
+    "status": "IMPORTED",
+    "case_count": 4,
+    "checker": "reference_tokens",
+    "validation_scope": "reference_comparison_unique_output_candidate",
+    "detail": "id_and_question_exact_prefix"
+  },
+  {
+    "person": "person_3",
+    "problem_id": "3046",
+    "status": "IMPORTED",
+    "case_count": 4,
+    "checker": "reference_tokens",
+    "validation_scope": "reference_comparison_unique_output_candidate",
+    "detail": "id_and_question_exact_prefix"
+  },
+  {
+    "person": "person_3",
+    "problem_id": "3047",
+    "status": "IMPORTED",
+    "case_count": 4,
+    "checker": "reference_tokens",
+    "validation_scope": "reference_only_multi_output_REQUIRES_REVIEW",
+    "detail": "id_and_question_exact_prefix"
+  },
+  {
+    "person": "person_3",
+    "problem_id": "3048",
+    "status": "IMPORTED",
+    "case_count": 4,
+    "checker": "reference_tokens",
+    "validation_scope": "reference_comparison_unique_output_candidate",
+    "detail": "id_and_question_exact_prefix"
+  },
+  {
+    "person": "person_3",
+    "problem_id": "3049",
+    "status": "IMPORTED",
+    "case_count": 4,
+    "checker": "reference_tokens",
+    "validation_scope": "reference_comparison_unique_output_candidate",
+    "detail": "id_and_question_exact_prefix"
+  },
+  {
+    "person": "person_3",
+    "problem_id": "3050",
+    "status": "IMPORTED",
+    "case_count": 4,
+    "checker": "reference_tokens",
+    "validation_scope": "reference_comparison_unique_output_candidate",
+    "detail": "id_and_question_exact_prefix"
+  },
+  {
+    "person": "person_3",
+    "problem_id": "3051",
+    "status": "IMPORTED",
+    "case_count": 4,
+    "checker": "reference_tokens",
+    "validation_scope": "reference_comparison_unique_output_candidate",
+    "detail": "id_and_question_exact_prefix"
+  },
+  {
+    "person": "person_3",
+    "problem_id": "3052",
+    "status": "IMPORTED",
+    "case_count": 4,
+    "checker": "numeric_tolerance",
+    "validation_scope": "numeric_tolerance_from_problem_statement",
+    "detail": "id_and_question_exact_prefix"
+  },
+  {
+    "person": "person_3",
+    "problem_id": "3053",
+    "status": "IMPORTED",
+    "case_count": 4,
+    "checker": "semantic",
+    "validation_scope": "semantic_checker_reviewed",
+    "detail": "id_and_question_exact_prefix"
+  },
+  {
+    "person": "person_3",
+    "problem_id": "3054",
+    "status": "IMPORTED",
+    "case_count": 4,
+    "checker": "reference_tokens",
+    "validation_scope": "reference_comparison_unique_output_candidate",
+    "detail": "id_and_question_exact_prefix"
+  },
+  {
+    "person": "person_3",
+    "problem_id": "3055",
+    "status": "IMPORTED",
+    "case_count": 4,
+    "checker": "reference_tokens",
+    "validation_scope": "reference_comparison_unique_output_candidate",
+    "detail": "id_and_question_exact_prefix"
+  },
+  {
+    "person": "person_3",
+    "problem_id": "3056",
+    "status": "IMPORTED",
+    "case_count": 4,
+    "checker": "reference_tokens",
+    "validation_scope": "reference_comparison_unique_output_candidate",
+    "detail": "id_and_question_exact_prefix"
+  },
+  {
+    "person": "person_3",
+    "problem_id": "3057",
+    "status": "IMPORTED",
+    "case_count": 4,
+    "checker": "reference_tokens",
+    "validation_scope": "reference_comparison_unique_output_candidate",
+    "detail": "id_and_question_exact_prefix"
+  },
+  {
+    "person": "person_3",
+    "problem_id": "3058",
+    "status": "IMPORTED",
+    "case_count": 4,
+    "checker": "reference_tokens",
+    "validation_scope": "reference_only_multi_output_REQUIRES_REVIEW",
+    "detail": "id_and_question_exact_prefix"
+  },
+  {
+    "person": "person_3",
+    "problem_id": "3059",
+    "status": "IMPORTED",
+    "case_count": 4,
+    "checker": "numeric_tolerance",
+    "validation_scope": "numeric_tolerance_from_problem_statement",
+    "detail": "id_and_question_exact_prefix"
+  },
+  {
+    "person": "person_3",
+    "problem_id": "4045",
+    "status": "IMPORTED",
+    "case_count": 42,
+    "checker": "semantic",
+    "validation_scope": "semantic_checker_reviewed",
+    "detail": "id_and_question_exact_prefix"
+  },
+  {
+    "person": "person_3",
+    "problem_id": "4046",
+    "status": "IMPORTED",
+    "case_count": 42,
+    "checker": "reference_tokens",
+    "validation_scope": "reference_only_multi_output_REQUIRES_REVIEW",
+    "detail": "id_and_question_exact_prefix"
+  },
+  {
+    "person": "person_3",
+    "problem_id": "4047",
+    "status": "IMPORTED",
+    "case_count": 41,
+    "checker": "reference_tokens",
+    "validation_scope": "reference_comparison_unique_output_candidate",
+    "detail": "id_and_question_exact_prefix"
+  },
+  {
+    "person": "person_3",
+    "problem_id": "4048",
+    "status": "IMPORTED",
+    "case_count": 41,
+    "checker": "reference_tokens",
+    "validation_scope": "reference_comparison_unique_output_candidate",
+    "detail": "id_and_question_exact_prefix"
+  },
+  {
+    "person": "person_3",
+    "problem_id": "4049",
+    "status": "IMPORTED",
+    "case_count": 40,
+    "checker": "reference_tokens",
+    "validation_scope": "reference_comparison_unique_output_candidate",
+    "detail": "id_and_question_exact_prefix"
+  },
+  {
+    "person": "person_3",
+    "problem_id": "4050",
+    "status": "IMPORTED",
+    "case_count": 40,
+    "checker": "semantic",
+    "validation_scope": "semantic_checker_reviewed",
+    "detail": "id_and_question_exact_prefix"
+  },
+  {
+    "person": "person_3",
+    "problem_id": "4051",
+    "status": "IMPORTED",
+    "case_count": 40,
+    "checker": "reference_tokens",
+    "validation_scope": "reference_comparison_unique_output_candidate",
+    "detail": "id_and_question_exact_prefix"
+  },
+  {
+    "person": "person_3",
+    "problem_id": "4052",
+    "status": "IMPORTED",
+    "case_count": 39,
+    "checker": "reference_tokens",
+    "validation_scope": "reference_comparison_unique_output_candidate",
+    "detail": "id_and_question_exact_prefix"
+  },
+  {
+    "person": "person_3",
+    "problem_id": "4053",
+    "status": "IMPORTED",
+    "case_count": 39,
+    "checker": "semantic",
+    "validation_scope": "semantic_checker_reviewed",
+    "detail": "id_and_question_exact_prefix"
+  },
+  {
+    "person": "person_3",
+    "problem_id": "4054",
+    "status": "IMPORTED",
+    "case_count": 39,
+    "checker": "reference_tokens",
+    "validation_scope": "reference_comparison_unique_output_candidate",
+    "detail": "id_and_question_exact_prefix"
+  },
+  {
+    "person": "person_3",
+    "problem_id": "4055",
+    "status": "IMPORTED",
+    "case_count": 38,
+    "checker": "reference_tokens",
+    "validation_scope": "reference_comparison_unique_output_candidate",
+    "detail": "id_and_question_exact_prefix"
+  },
+  {
+    "person": "person_3",
+    "problem_id": "4056",
+    "status": "IMPORTED",
+    "case_count": 38,
+    "checker": "reference_tokens",
+    "validation_scope": "reference_comparison_unique_output_candidate",
+    "detail": "id_and_question_exact_prefix"
+  },
+  {
+    "person": "person_3",
+    "problem_id": "4057",
+    "status": "IMPORTED",
+    "case_count": 37,
+    "checker": "reference_tokens",
+    "validation_scope": "reference_comparison_unique_output_candidate",
+    "detail": "id_and_question_exact_prefix"
+  },
+  {
+    "person": "person_3",
+    "problem_id": "4058",
+    "status": "IMPORTED",
+    "case_count": 37,
+    "checker": "reference_tokens",
+    "validation_scope": "reference_comparison_unique_output_candidate",
+    "detail": "id_and_question_exact_prefix"
+  },
+  {
+    "person": "person_3",
+    "problem_id": "4059",
+    "status": "IMPORTED",
+    "case_count": 37,
+    "checker": "reference_tokens",
+    "validation_scope": "reference_comparison_unique_output_candidate",
+    "detail": "id_and_question_exact_prefix"
+  },
+  {
+    "person": "person_3",
+    "problem_id": "45",
+    "status": "IMPORTED",
+    "case_count": 129,
+    "checker": "semantic",
+    "validation_scope": "semantic_checker_reviewed",
+    "detail": "id_and_question_exact_prefix"
+  },
+  {
+    "person": "person_3",
+    "problem_id": "46",
+    "status": "IMPORTED",
+    "case_count": 128,
+    "checker": "reference_tokens",
+    "validation_scope": "reference_comparison_unique_output_candidate",
+    "detail": "id_and_question_exact_prefix"
+  },
+  {
+    "person": "person_3",
+    "problem_id": "47",
+    "status": "IMPORTED",
+    "case_count": 127,
+    "checker": "reference_tokens",
+    "validation_scope": "reference_comparison_unique_output_candidate",
+    "detail": "id_and_question_exact_prefix"
+  },
+  {
+    "person": "person_3",
+    "problem_id": "48",
+    "status": "IMPORTED",
+    "case_count": 127,
+    "checker": "reference_tokens",
+    "validation_scope": "reference_comparison_unique_output_candidate",
+    "detail": "id_and_question_exact_prefix"
+  },
+  {
+    "person": "person_3",
+    "problem_id": "49",
+    "status": "IMPORTED",
+    "case_count": 125,
+    "checker": "reference_tokens",
+    "validation_scope": "reference_comparison_unique_output_candidate",
+    "detail": "id_and_question_exact_prefix"
+  },
+  {
+    "person": "person_3",
+    "problem_id": "50",
+    "status": "IMPORTED",
+    "case_count": 124,
+    "checker": "reference_tokens",
+    "validation_scope": "reference_comparison_unique_output_candidate",
+    "detail": "id_and_question_exact_prefix"
+  },
+  {
+    "person": "person_3",
+    "problem_id": "51",
+    "status": "IMPORTED",
+    "case_count": 124,
+    "checker": "reference_tokens",
+    "validation_scope": "reference_comparison_unique_output_candidate",
+    "detail": "id_and_question_exact_prefix"
+  },
+  {
+    "person": "person_3",
+    "problem_id": "52",
+    "status": "IMPORTED",
+    "case_count": 123,
+    "checker": "reference_tokens",
+    "validation_scope": "reference_comparison_unique_output_candidate",
+    "detail": "id_and_question_exact_prefix"
+  },
+  {
+    "person": "person_3",
+    "problem_id": "53",
+    "status": "IMPORTED",
+    "case_count": 122,
+    "checker": "reference_tokens",
+    "validation_scope": "reference_comparison_unique_output_candidate",
+    "detail": "id_and_question_exact_prefix"
+  },
+  {
+    "person": "person_3",
+    "problem_id": "54",
+    "status": "IMPORTED",
+    "case_count": 122,
+    "checker": "reference_tokens",
+    "validation_scope": "reference_comparison_unique_output_candidate",
+    "detail": "id_and_question_exact_prefix"
+  },
+  {
+    "person": "person_3",
+    "problem_id": "55",
+    "status": "IMPORTED",
+    "case_count": 122,
+    "checker": "reference_tokens",
+    "validation_scope": "reference_comparison_unique_output_candidate",
+    "detail": "id_and_question_exact_prefix"
+  },
+  {
+    "person": "person_3",
+    "problem_id": "56",
+    "status": "IMPORTED",
+    "case_count": 121,
+    "checker": "reference_tokens",
+    "validation_scope": "reference_comparison_unique_output_candidate",
+    "detail": "id_and_question_exact_prefix"
+  },
+  {
+    "person": "person_3",
+    "problem_id": "57",
+    "status": "IMPORTED",
+    "case_count": 121,
+    "checker": "reference_tokens",
+    "validation_scope": "reference_comparison_unique_output_candidate",
+    "detail": "id_and_question_exact_prefix"
+  },
+  {
+    "person": "person_3",
+    "problem_id": "58",
+    "status": "IMPORTED",
+    "case_count": 120,
+    "checker": "reference_tokens",
+    "validation_scope": "reference_comparison_unique_output_candidate",
+    "detail": "id_and_question_exact_prefix"
+  },
+  {
+    "person": "person_3",
+    "problem_id": "59",
+    "status": "IMPORTED",
+    "case_count": 120,
+    "checker": "reference_tokens",
+    "validation_scope": "reference_only_multi_output_REQUIRES_REVIEW",
+    "detail": "id_and_question_exact_prefix"
+  }
+]

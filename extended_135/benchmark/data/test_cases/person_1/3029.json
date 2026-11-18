@@ -1,0 +1,25 @@
+{
+  "problem_id": "3029",
+  "test_source": "Original APPS test split via https://huggingface.co/datasets/metr-evals/apps; dataset viewer: https://datasets-server.huggingface.co/rows?dataset=metr-evals%2Fapps&config=default&split=test&offset=3029&length=1",
+  "source_dataset": "metr-evals/apps",
+  "source_split": "test",
+  "source_problem_url": "https://open.kattis.com/problems/neverjumpdown",
+  "retrieved_at_utc": "2026-11-18T00:41:13.414213+00:00",
+  "verification": "id_and_question_exact_prefix",
+  "review_status": "approved",
+  "validation_scope": "reference_comparison_unique_output_candidate",
+  "checker": "reference_tokens",
+  "inputs": [
+    "5\n3\n3\n3\n3\n3\n1\n2\n3\n4\n",
+    "5\n4\n3\n2\n1\n0\n1\n2\n3\n4\n",
+    "4\n1\n5\n3\n6\n1\n2\n3\n",
+    "6\n1\n2\n3\n4\n5\n6\n1\n1\n1\n1\n1\n"
+  ],
+  "outputs": [
+    "5 1\n",
+    "1 5\n",
+    "3 2\n",
+    "2 5\n"
+  ],
+  "suite_sha256": "61a0d6fd6201d854d156e629a3a4bca786c687957c8f7ad2a4262d95a3631b0f"
+}

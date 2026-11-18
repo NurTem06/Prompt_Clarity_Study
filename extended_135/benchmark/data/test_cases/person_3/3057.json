@@ -1,0 +1,25 @@
+{
+  "problem_id": "3057",
+  "test_source": "Original APPS test split via https://huggingface.co/datasets/metr-evals/apps; dataset viewer: https://datasets-server.huggingface.co/rows?dataset=metr-evals%2Fapps&config=default&split=test&offset=3057&length=1",
+  "source_dataset": "metr-evals/apps",
+  "source_split": "test",
+  "source_problem_url": "https://open.kattis.com/problems/more10",
+  "retrieved_at_utc": "2026-11-18T01:00:30.721954+00:00",
+  "verification": "id_and_question_exact_prefix",
+  "review_status": "approved",
+  "validation_scope": "reference_comparison_unique_output_candidate",
+  "checker": "reference_tokens",
+  "inputs": [
+    "4\nherp is derp\nderp is herp\nherp is herp\nderp is derp\n",
+    "3\noskar not lukas\noskar is poptart\nlukas is smart\n",
+    "1\nmoo not foo\n",
+    "2\nmoo not foo\noo is blah\n"
+  ],
+  "outputs": [
+    "yes\n",
+    "wait what?\n",
+    "yes\n",
+    "wait what?\n"
+  ],
+  "suite_sha256": "3a464c13af613a539b3c79af38c8d724fe23c163e2c838742cd5584ff9d8f1c2"
+}

@@ -1,0 +1,107 @@
+{
+  "id": "resp_06da7618dfc7d9a8016ae2e69842c487d29be966b375a9ba6f",
+  "created_at": 1793255064.0,
+  "error": null,
+  "incomplete_details": null,
+  "instructions": "Solve the programming problem using Python 3. Read from standard input and write to standard output. Return only executable Python 3 source code, without Markdown or explanations.",
+  "metadata": {},
+  "model": "gpt-6.1-sol",
+  "object": "response",
+  "output": [
+    {
+      "id": "rs_06da7618dfc7d9a8016ae2e6996dd487d2ae4b27ed701207b6",
+      "summary": [],
+      "type": "reasoning",
+      "content": [],
+      "encrypted_content": "gAAAAABq4uaciXHpxxfkxys6Tz5LT5FOJeNxOkM5bkPw6s7MZDIUUPsnEvKUcTlXWMFTgfErdbDVraVvmRo5jZtpburb0jpuPHAjaaZDX4cwh_P3vG5RFEGe80MDNSFlELee5jFQ03ObJN5Q4yj87h5StAxhFo-ejDyDzindDF0aEYcy6K8wg5GsRmDOUW1vrkO72n347FRNPCdxBVupR8wggGkJZMrEE1ngP78j2Yq4piHvT1DKb915ZITX8A-psODj3akepjefTzVXISnarfgkO1gEGb8KVOHp_4F7lHerjujA49i-MxwDGFRNOyNz6Gir8ytqrs598AojBWR_nlzctJjoIRrFG0G4UwRrgWo6_Af2VisG61-Vfe_P2gmxWRE07IxpMB4P9ds1lKOkLdF7AbpqocP2UI1S1KswhW9HMP-RWGy9fjWhbo6gneyf8DODvkiEOMTGpM6iI5sWpxTbYyz_rBIMIgeWhYJVouRcgnUVy7LjOSkDexsxhlJtB7xPR9n6bwpJ-T7W6qg1XhKXjO1v30Ss5bnGp_F1uFMlNHnaz1SBPeTe66bcm4Zn5ANbxJpYrL7OtRqjtcFS-r_xoCvuCDcrS3erevI6lLTIN9imHtzNocXzmpKBatpdAOQ0ioT4o6QVrQbaPXuYq_VMSkexO7Yb0yq-aaGDRQdaExIh_Zx9HGuSq2SluafFiAGaKPDsu8xu94hQ3dsEH202-9fzLy2mDrBOpdv_D90v3-a-HXsShgMtE4OtjyNrxtm0QtPwKt1kZ_b3lNMpf4gijVZv14F5hIfTp6aFQe6aV4XKzFrKMa6svTRZbyyZmCvNbk0nrz7j6ikJw3qFzfgwEkSxq9t4S__D5UyC1Kz-RNTMoGyC5YrgD2J9nKx_JciGyULqGihbnFPeJvCo2NEkH_cMsY-yGJn8pmq0oerN--RO3jo6LJ1pNTX7vTOSSmo4IPcYaKxbTaetI77c6JZMmCiEJl_fjpmmyyIJGIvXPoFyPkiLNevC0RyuGttwXXQ54xf7uez9ccs35iIXJAYM5BGSQKfA9gYIQfBhQB8kSNn6LEu32oHUQEb64dOcPtj2eJeAFIHwJtBkPrQeqbGCzadzpbWBDnXGuDH1lGeAVtHESG2Y0yHGeZh6i6-JI1aQD33puAyjx_gB03wSmllHBEMZk_eK-koZy3uP7fEFMd_Kt-dwFxNOjYTgZLVUcseO7cM_tCIq0aeAAC1SMd36vbubP9O9FaogQssaSTxqRSyQ83gR4A6-7Q1iSUePchYjpfnrD5JJKYyNWs04bcSe57xIvd4MtQEMlC_YFojY_DCepZn_hD4j0ihx2oS4XTDt69acfZGliWV936ZijI9DyWqvPWoPVmKwUCEv0uIqndtFeqWXwpARNi8axVmVR3UPhuDNFQdF1EW0NjhIfsmZ3tVzfIeXfEDMjqMxWorOkLHlhWMEi2XkuN-OlWw42P0tLAfdlEpRsfqXY208G9AlBdJeITiS9gntihHFKNcOdlVj9SyulOpOK61DGMc-Py71czRsCQgVtlpiECl-S-FVRZnvA5xgzBwjn8t0X--5ZVH6di-uYipePuEfvSYV08uGlghDfdcacUCEg0LdxeAX5S3Jj2Z4suEQFJyzIqqA4ZglyCAIDPPR3IUlf50FIAkUEw7rRdZ4WpXHV3vg5LMje6ASdXLFZMl85bOBpK8ObCYWZci-GDd3IMORRUXl-Lb9jAdiyAujqmIIGKu_kL802izVfYh9M8bww5xTe1kaymiK-c-FwwaWEIyH98MOdQGOv5kQtfw_BmRdVZiHigpQPlHAgTXkWDavzFFTNH3noE-yPKsFsoo=",
+      "status": null
+    },
+    {
+      "id": "msg_06da7618dfc7d9a8016ae2e69a6f7887d28655d50a4b122e8a",
+      "content": [
+        {
+          "annotations": [],
+          "text": "import sys\n\ndef main():\n    data = sys.stdin.buffer.read().split()\n    n = int(data[0])\n    s = data[1]\n    total_gold = s.count(b'G')\n\n    left = 0\n    silvers = 0\n    best = 0\n\n    for right in range(n):\n        if s[right] == 83:\n            silvers += 1\n\n        while silvers > 1:\n            if s[left] == 83:\n                silvers -= 1\n            left += 1\n\n        best = max(best, right - left + 1)\n\n    print(min(best, total_gold))\n\nif __name__ == \"__main__\":\n    main()",
+          "type": "output_text",
+          "logprobs": []
+        }
+      ],
+      "role": "assistant",
+      "status": "completed",
+      "type": "message",
+      "phase": "final_answer"
+    }
+  ],
+  "parallel_tool_calls": true,
+  "temperature": 1.0,
+  "tool_choice": "auto",
+  "tools": [],
+  "top_p": 0.98,
+  "background": false,
+  "completed_at": 1793255067.0,
+  "conversation": null,
+  "max_output_tokens": 16000,
+  "max_tool_calls": null,
+  "moderation": null,
+  "previous_response_id": null,
+  "prompt": null,
+  "prompt_cache_key": null,
+  "prompt_cache_options": null,
+  "prompt_cache_retention": "24h",
+  "reasoning": {
+    "context": "all_turns",
+    "effort": "medium",
+    "generate_summary": null,
+    "mode": "standard",
+    "summary": null
+  },
+  "safety_identifier": null,
+  "service_tier": "default",
+  "status": "completed",
+  "text": {
+    "format": {
+      "type": "text"
+    },
+    "verbosity": "medium"
+  },
+  "top_logprobs": 0,
+  "truncation": "disabled",
+  "usage": {
+    "input_tokens": 408,
+    "input_tokens_details": {
+      "cache_write_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens": 184,
+    "output_tokens_details": {
+      "reasoning_tokens": 33
+    },
+    "total_tokens": 592
+  },
+  "user": null,
+  "access_programs": null,
+  "billing": {
+    "payer": "developer"
+  },
+  "frequency_penalty": 0.0,
+  "presence_penalty": 0.0,
+  "store": false,
+  "tool_usage": {
+    "image_gen": {
+      "input_tokens": 0,
+      "input_tokens_details": {
+        "image_tokens": 0,
+        "text_tokens": 0
+      },
+      "output_tokens": 0,
+      "output_tokens_details": {
+        "image_tokens": 0,
+        "text_tokens": 0
+      },
+      "total_tokens": 0
+    },
+    "web_search": {
+      "num_requests": 0
+    }
+  }
+}

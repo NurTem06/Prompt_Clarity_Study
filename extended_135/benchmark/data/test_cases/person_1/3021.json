@@ -1,0 +1,25 @@
+{
+  "problem_id": "3021",
+  "test_source": "Original APPS test split via https://huggingface.co/datasets/metr-evals/apps; dataset viewer: https://datasets-server.huggingface.co/rows?dataset=metr-evals%2Fapps&config=default&split=test&offset=3021&length=1",
+  "source_dataset": "metr-evals/apps",
+  "source_split": "test",
+  "source_problem_url": "https://open.kattis.com/problems/easyascab",
+  "retrieved_at_utc": "2026-11-18T00:41:12.046596+00:00",
+  "verification": "id_and_question_exact_prefix",
+  "review_status": "approved",
+  "validation_scope": "reference_only_multi_output_REQUIRES_REVIEW",
+  "checker": "reference_tokens",
+  "inputs": [
+    "d 4\ncab\ncda\nccc\nbadca\n",
+    "c 4\nabc\nbca\ncab\naca\n",
+    "f 2\ndea\ncfb\n",
+    "e 5\nebbce\ndbe\nadcd\nbc\ncd\n"
+  ],
+  "outputs": [
+    "adcb\n",
+    "IMPOSSIBLE\n",
+    "AMBIGUOUS\n",
+    "edabc\n"
+  ],
+  "suite_sha256": "ab05bd1347e3592e08b92cd317029e165c3a1fff756f268df638afc00c8429c7"
+}

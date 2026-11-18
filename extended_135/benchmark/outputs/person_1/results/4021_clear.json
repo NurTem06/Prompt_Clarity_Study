@@ -1,0 +1,23 @@
+{
+  "problem_id": "4021",
+  "total_test_cases": 64,
+  "test_cases_executed": 5,
+  "test_cases_passed": 4,
+  "passed_before_first_failure": 4,
+  "pass_at_1": 0,
+  "failure_type": "wrong_answer",
+  "failure_index_1based": 5,
+  "detail": "output differs from reference tokens",
+  "checker": "reference_tokens",
+  "syntax_ok": true,
+  "runtime_seconds": 0.1791,
+  "person": "person_1",
+  "condition": "clear",
+  "difficulty_tier": "Introductory",
+  "model": "gpt-6.1-sol",
+  "checker_review_status": "approved",
+  "test_source": "Original APPS test split via https://huggingface.co/datasets/metr-evals/apps; dataset viewer: https://datasets-server.huggingface.co/rows?dataset=metr-evals%2Fapps&config=default&split=test&offset=4021&length=1",
+  "prompt_sha256": "fb1c4cc1f1e0bf8c7bb6f6c6294f397a0bb834ac328154555e37e3429bb0d968",
+  "code_sha256": "f2906ce5202b9c280e3912effca81fa5438e08f02bc5f84cf59aa5b12fe3c76a",
+  "evaluated_at_utc": "2026-11-18T00:46:01.803670+00:00"
+}

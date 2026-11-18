@@ -1,0 +1,15 @@
+{
+  "problem_id": 4001,
+  "total_test_cases": 244,
+  "passed_before_first_failure": 244,
+  "pass_at_1": 1,
+  "failure_type": null,
+  "failure_index_1based": null,
+  "detail": null,
+  "checker": "semantic",
+  "condition": "clear",
+  "difficulty": "introductory",
+  "model": "gpt-6.1-sol",
+  "provenance": "batch_runner",
+  "checked_at_utc": "2026-10-29T06:16:49.221184+00:00"
+}

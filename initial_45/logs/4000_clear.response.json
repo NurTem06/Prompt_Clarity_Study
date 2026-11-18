@@ -1,0 +1,107 @@
+{
+  "id": "resp_03d5af799a40e513016ae2e3d0291087d2a6a350660147e9a6",
+  "created_at": 1793254352.0,
+  "error": null,
+  "incomplete_details": null,
+  "instructions": "Solve the programming problem using Python 3. Read from standard input and write to standard output. Return only executable Python 3 source code, without Markdown or explanations.",
+  "metadata": {},
+  "model": "gpt-6.1-sol",
+  "object": "response",
+  "output": [
+    {
+      "id": "rs_03d5af799a40e513016ae2e3d17de487d2b4f754dce75e1a30",
+      "summary": [],
+      "type": "reasoning",
+      "content": [],
+      "encrypted_content": "gAAAAABq4uPZAyzlsVlgArxG0RYXhdIrbl-0pOBwMI-QxyJHl8UY8SC6lcabl3QfWxaAceu3jMJSamPKVAuRvo6HRXYLU93pwlzFa3Q1MDN3DOQnPjKB-M0OaXzAh2VPyGJf6xJVTT7Kxn_TfHX0SAwvMR3XtenwX0xbj8Xha0vnl3soyXHWyrw9doHbJAHZXQGFr03HPPQNkQF8sw3duZAPNl7ZSGjD8N3QkPhd5Dkz7vFq2ujt6K8oLQfcIFPnvw0Q-OC8XK4tyGYdsQGMearTe629Pl_qVhQGPJHYfRRMtzJT1glUX_vSYWASD6TDlF-uTu_gojwwtfJOzUaH__KbYWMHGptUSqvRsRJ2UY1Q8FBNPvtDUuID8395_GFa_3nCZMqeoQSSGdgXOKXxw8DCqw-Vo4E5_054xmjCz4U_cVW0qBBVBwJ97mze-l0k8_20kqvWfg1V4wZ7bgfaj06i4VqfwDba5kSdNVEx54UTRxCN4geRHZOg58BJ0vqwhzNp6n_Y5Jf8PSx1JYfkHHh-XIuS7G92S0S7v41N0Iu217a3L-blL0QQCy91ASGingwDgeHvHVav2C4iUdwg9_JZiLHqrgcfEYOnIftS8LpVO8RY-X88euk2cRp7mG261_sjv1ke_GbTC3f4GrdbFylTaeC5MNDWjyCyjL5iHgPKYFl3uAy96-70sJhKsoS0qYTXrWn5pgcuMhdX5HGlvN-pcBlq_jUg3rmlKATqLMd1pRLuVA4EyYLJoc6qP6-Ydq8DrsSNwdvjvwRCHBxSovIVIvgNt3Voi1ZpIotYDQ8KFXdGKPmypJ2RuRSyLDYSJdAu4cLnaLU2ZbANvUC4SqTn7KEd3ytB3wNy1tlih8MjyDz2mtZZHp8akwRPSVRbpGSUOfJwtVIa5NKvx2HTBT1xqpXs-LbN_9Au5-kUoW0uzU73SEikNGdoy_8SSCvQUlun-MI_17K6AdLQMlyrjIvjypqh6jyf8whFIwQbce_F_Kkq3JWCF0yZLHPnqKdmCrQG1BafQmDqWkvlbr_xB8KiIXgGHECp2kYR4wdG6HGYVwEdz5v52a2kywTWZYshK4u48heR5i_Elby66flZXwxxR5c4Vv5OiInfzXquDCmMWp-OK3rYFEz_7Md1SCs56I4mNzKV70R4XIUwDupJc9vPI_yLXhSmzp4e_-UdDJI_NHc_5fyZgo1-tIId84hL5O7CYR7gzOKZ_Gqmjzhzlp-9bx2m2LgLKo6YDEMxVfOs8qA6l9QvJDUzLTfPkHxr_ECylRDd7VTSUuKHVx5ddc-RgWdengngGde_A47-ci7VJXi54FWqqWFF_Gs4yCR0VS8IFvjTifNSGKsuI9zFLGbKiPgCCvYn_P01fuxjz608FQzkwvBUBkvNw5YfMzfmwaNpAk9qNYnsJXnv8PTgXf9WzFxUVij8HYatCDbkHFe47aaLI33rUJvJU7kqNTEa0UEW_sSckVtMsFyMz4jv30moA03rsI-iAAc4ZjdLwV00eF-Amwmo1sBoTCzdnxrWcmLBFLY2AlgDYAk0sHmSqdV6rHTnVgH1-RIlJ2mElG6XszlCMTfV_xJQM8b08wLxEqQhcJc_AxNEez-GiL0kKQr3IThuVb4rhQI98giiSNzkCvLmj2PmXQp_X_z144nGqo-1qcKBESaeYXrf6ILaYyEMJ9S5f0pwd7tYxUEbA1r_utPCANwlfjrvvj3G5yw9R9DaerF5ov_QtPI2cpdDbR5lz_KD-bDG4T25PfUOVwBYpoFCfi2lUOd3drxy23IM14Ftnb7nxhSd2MF1NYXU2CCVSVl_faqXM1m_oPZPQhiBqpV71CysBuARjeMo9bWjmYXGFkfk_aaI4gCKGOGfYZBG8veXUSIHAbnKr8Pumf3xb1WtpU_cldUx21Ys-pbPgRmKMKnwIgMWla59IrDgnfyNk7NI1VaeVZbhylWwyjmXq4rVmYLrf1TPWW-zMD7QvUVXHCEHGqP8GPjDeTTHCpiFAGdfA1KEhN1ZwCjObb4219ZobHkXTMTR0ZwleE6pMJo5WZPF9m4kWPTGAiIlSdXLEEKvt7u4Zbq5rFuA8BlbL3JypIkMRAjloBFk8huvop3uX7ILpxlCqToRwRLXzhB_mN8NaeSurMhO_qcvkyUdGSSQcurggZDCU0mYC2PRaVidky8S7WdLKwP4Tk54fT39ezAn400hJbR5nvk5bFUmk0QiKFWbxAxlqtwC_iQxBCdh-OwvNuG2dHMNyHqbZi98n_EmpGTPdcjyOn0xXpvvE4u0s4mv6JGGR3vhwCIZL30iAP2Lsap0fLncpCP5CbVg6iZIJVreek2aCncnpKW__OabiO_CReRAdAFf24ZE_D0QtHgKc3hkNlVZ4klbk1X5fVZFW9Mh2GOm_bt6ChRL25L1R0Sl9Qw7Akfl3SizyinGKQibiajevfIf6Nggg2WzVJ-nIU9fsVc2tGGsQWcEUCIKq8s-e1aCNeu0fuCPIXK4FT4nzvN8fyi96qOpv2d5OfKUUNMlmN3i6ulQudLIajO3JBSmNK4Q0Nr6wTr1uZj0BLOd8UORPHcHlNg--n0BJKbM0Bck8ZVqjJ7MBFyzK-b9UeVJM4_2IS2xOCC2_AFqHtdr-puUiASqTf74uctz0ioKi4c7l_zDcX7dj_n3HgXUZhlc53mf74lGlfCilQpvUTyZhNKuXPC9t0m-NfUMyBW60j_IP89cZLtC5Dltcq-e1c5qu6lvroQfrkk3H3VuuggJ71fmsMM4TvmJMuCmzYr_mUkK4hMo4Pt5Pv1uLYl03yc3s3Ibcsdf3hawdpGiUec0mRHLokTQwMLpb4PEqP-QicMx1MQDzL6bP62-LPbQ4z0_ENrUUoKlpEz1GOPm2LpzKZOoKR-46sET08shvsN2N324HucbxYNO6JyvATpRw4shuvBUIHsI68hpgbNmdqNws2xzNANcQVV35m1D7o4qMYXifgvFxApG_tnqEApz34K8Kc0q0AIdO_gdUlsesOF3AReZlXxiqASz58bySzfhWFzsx8BxEs8GVjcSdRyHk_HOLGeiyNOL3Og02Jw2-p8QP3lIYkUw9lUyKCyDwmsLOQK643QZCygPgVgH-Qwt4M2Z7VwNWqnCh7W3ypA5wI0jY_5jNpQm2T2jrJMXrbOnQQszvzeRtQgFWaREeTkRrc1vZdY7pwhro5047LDm-Xsle3-CNLpSJ0Hi8SYDO3f8MkxBje17IceUr9eI7xOtdnkspNAm2BzyVlWKWtBIleXjLTTnO7P4Alnm7bs7FHDXO7FY38jUO6-oz0IERZ-L_ZO8Jo4Y4OpGJISEmZ1PqiSItNvqiSuSwxAcHpwBD8dABYhR6Pzc8aLn9GolYMK_WzSltxR0TL1ApQZikOIf5p5PGorPLeZU6i-_IbdL4nOwOkUEebfe5yyzYxudA8oWfPlix-UtKgssANZ1VITuHOfOS1FF",
+      "status": null
+    },
+    {
+      "id": "msg_03d5af799a40e513016ae2e3d6cf4c87d2ad6a5efedde46411",
+      "content": [
+        {
+          "annotations": [],
+          "text": "import sys\n\n\ndef main():\n    data = iter(map(int, sys.stdin.buffer.read().split()))\n    n = next(data)\n    graph = [[] for _ in range(n)]\n    for _ in range(n - 1):\n        u = next(data) - 1\n        v = next(data) - 1\n        graph[u].append(v)\n        graph[v].append(u)\n\n    def bfs(start):\n        dist = [-1] * n\n        parent = [-1] * n\n        dist[start] = 0\n        queue = [start]\n        for u in queue:\n            for v in graph[u]:\n                if dist[v] == -1:\n                    dist[v] = dist[u] + 1\n                    parent[v] = u\n                    queue.append(v)\n        return queue[-1], dist, parent\n\n    a, _, _ = bfs(0)\n    b, distances, parent = bfs(a)\n    diameter = distances[b]\n\n    dist = [-1] * n\n    queue = []\n    u = b\n    while u != -1:\n        queue.append(u)\n        dist[u] = 0\n        u = parent[u]\n\n    interior = queue[1]\n    for u in queue:\n        for v in graph[u]:\n            if dist[v] == -1:\n                dist[v] = dist[u] + 1\n                queue.append(v)\n\n    c = queue[-1]\n    if dist[c] == 0:\n        c = interior\n\n    print(diameter + dist[c])\n    print(a + 1, b + 1, c + 1)\n\n\nif __name__ == \"__main__\":\n    main()\n",
+          "type": "output_text",
+          "logprobs": []
+        }
+      ],
+      "role": "assistant",
+      "status": "completed",
+      "type": "message",
+      "phase": "final_answer"
+    }
+  ],
+  "parallel_tool_calls": true,
+  "temperature": 1.0,
+  "tool_choice": "auto",
+  "tools": [],
+  "top_p": 0.98,
+  "background": false,
+  "completed_at": 1793254361.0,
+  "conversation": null,
+  "max_output_tokens": 16000,
+  "max_tool_calls": null,
+  "moderation": null,
+  "previous_response_id": null,
+  "prompt": null,
+  "prompt_cache_key": null,
+  "prompt_cache_options": null,
+  "prompt_cache_retention": "24h",
+  "reasoning": {
+    "context": "all_turns",
+    "effort": "medium",
+    "generate_summary": null,
+    "mode": "standard",
+    "summary": null
+  },
+  "safety_identifier": null,
+  "service_tier": "default",
+  "status": "completed",
+  "text": {
+    "format": {
+      "type": "text"
+    },
+    "verbosity": "medium"
+  },
+  "top_logprobs": 0,
+  "truncation": "disabled",
+  "usage": {
+    "input_tokens": 596,
+    "input_tokens_details": {
+      "cache_write_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens": 517,
+    "output_tokens_details": {
+      "reasoning_tokens": 165
+    },
+    "total_tokens": 1113
+  },
+  "user": null,
+  "access_programs": null,
+  "billing": {
+    "payer": "developer"
+  },
+  "frequency_penalty": 0.0,
+  "presence_penalty": 0.0,
+  "store": false,
+  "tool_usage": {
+    "image_gen": {
+      "input_tokens": 0,
+      "input_tokens_details": {
+        "image_tokens": 0,
+        "text_tokens": 0
+      },
+      "output_tokens": 0,
+      "output_tokens_details": {
+        "image_tokens": 0,
+        "text_tokens": 0
+      },
+      "total_tokens": 0
+    },
+    "web_search": {
+      "num_requests": 0
+    }
+  }
+}

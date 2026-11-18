@@ -1,0 +1,107 @@
+{
+  "id": "resp_06f5a9dbd2103518016ae2e67b8f1087d2af002f0f86e70df8",
+  "created_at": 1793255035.0,
+  "error": null,
+  "incomplete_details": null,
+  "instructions": "Solve the programming problem using Python 3. Read from standard input and write to standard output. Return only executable Python 3 source code, without Markdown or explanations.",
+  "metadata": {},
+  "model": "gpt-6.1-sol",
+  "object": "response",
+  "output": [
+    {
+      "id": "rs_06f5a9dbd2103518016ae2e67c82b087d2b608be018d0735af",
+      "summary": [],
+      "type": "reasoning",
+      "content": [],
+      "encrypted_content": "gAAAAABq4uaO3wW1NYkyKjSQYkJkE6W9fy-9lLdjor-GXsvbIn7TJd8gcJtmgvKW6ltf1MsVzVFOkDIS4h1CyDHc5jql50anuTW2auYN-eWEgBEQmtG4A1BCGwVVmisfE0tXu9-8PQ9f1aQ9dXMRmGVUz-snGG-x51K-Wr7gDclDL1rQOWkN-sZ5L_v2NXYy30KFGlv4KQWP6a9qcW4sMDKgqgHA9WwL2r6CnZsXegGEl_F0wSFbJMia62LerigyVC_-WcvTNHkg63WmJ6gPR9Ru4dLX7R7zOhP2A_u2P9Vkf8i-Hov3igL3fv-q-Cr8yeYrJO9urnsl9XCzqcYHzKMmmY63aODqH_k6PfqkGvEEb1CH7oxMPf8QHU7j--VGGp7AdhEPpqW4g07nApT-wf3KcXyZ4bBGQpnEbGTs0QahByCcNx18e3C1f0XfwpljafRyvnQp2pMiOxUShdW3TamV1jSaoDy3NvwWznXi3Q6O6vSQmW2QtOLouZCRi1qweIdDk7FKimG7JOFiIH6qqu-H2L_8-HECb4j0dbSOuiQIbua2Qy-JgZUclkeVypL7NniMxWWAAgT1Flxki9hQliSDiYIYLLZQsIViwAJROLGIiylqOHYOU1Wyo6-pd1BeAceWIJRsWScF0EpeZoX9a7wIJqEgrYHeoAYZxhgk1q5dp-b7YA5Fb5qzGeO1_VH00Rqtcd0Qri2kqp5jvtMs91fFFu94mANr9kbk-P5bQz2-jyQfem8yWGdsg3yU8422QfUdeUfI_p2d9lRdmI5kIiow3TtlTht8Hmyoz0K3JYvuDgrQ6GFn5e5nXM8UsnCRW3HfXK4noiiYf0pjNe0OxQqDiLL7GYMOS5mzZgi48W67Mux9EEkpT1ISYENWWkEEJG5nX8rfSzIfm3wjSnMBNFFX3L94ILy_yuNIawy01j-J5AaXF_ujXnEHtxg3M0yMgi7MAYslmpH4OR9Xxi-x5VQOzbzdBkfFbsPKcxqffd4veNquOHlk25HfSgbC-yrqIy7h6UdUmiDoltYm_tuuFyCa6HPuKsvvYlcuYZC3bb51nUToK_bZ1hromah2lOqD2Tsgdyrai246lHwBiapwdJcu2NzCgefBTnQ14ObScsJL3MGWJ-63nHSe4kT5EAJ2-T6uB0dq12bM1yT5kAkSyCYweD3OrXDo_an4p5rf_JiuodTJlRocCXE9qaQdu1xXL-gZKozX1nPbIVvfa5P_BBXXeAq7ruhex4fSpnbGO_O4rCvPg5eX9kOFROR9KawWXuNNeEZ2S-GK1pXQB_vZmYB3rSXp4THy6VcWOuNrXqsf8gsEDANxh3oA3NlAWZkFCuzUITpH00jHyjJlbQr5NX5BoInQl2wwj3yuSGLTnoY1H7uH0TipTcoeHBKnJxb65H02-pzts-nSuFEjL54xSEPy2o2JGVcTZ46uc_5lNHOg06pEf-agfGBU365sRfeS1E7FYAjbFKEKu5Ptr6kyKu3pQai6yVdYNAVlT7NH8pYGRFQv5VSg8j8jk9-3FAdXba9JlufEQys0WaPeLabcNqJXfOBAeFufHAWqeKk0NmOVyFwXh3jrfCp8WMiBVz14j2DLxvKofk57MO3uW4gRCF9QpsIGudFLMgygDSp-T_EWii1JWQdiGqFWeNVcYVxNa-yChR2Zk7Pa86kGeXRKhc2yz74TMlInMCn5Udags2NpOeQYmmIqmFMvIdHXc8fEhI1DtrTt2YZ28PjLu_9tvKGcegUYIj1g57KYOHFstXVK_U6Xtya_k2cwUgnY6TpzxcBEHlvqy1rXkmbXeR8omBt3IdKvyjrGLF0PvEYSaKwOQLGGY0LcEANn74ejTx73RUg3KwBYleyZjoEtpe51mHvlgndSAo-l1aIVUzVMMrKSN3RFjDq9qy4a5a0VqrzynfN0_VvXS1kE2MUGCAGF5PZFIW3njijCmZOosQoYSOXycc1yW2e0HB3nXNBrte-ofWg_BUuRZbZTHHsc0b_IkVowNVT464xdV1aPfwJJ5923mIk9YOKrLC5gLC5kP3w1LD1oZmyvfsyZDoeYH921jtowuA3XYola1R7A8FjqIcTQVIxAR9LKcAov1KRwsohimDosFUz9Zinij_93O2LYZ9Sk3AC_ggbs1ov1rMkfh4PebWF6_9WKH_MqspLtbgQzof2_ZLf27He6hxj4HJO_rGx5hQV8dhx2qKcXMViTLw4pfsI73e4ZDVwQGSLYN2rzPKJBi7E9LuFzu88Vga2UO1wJIIQ1WjdMlybGgLLIlAaS4QqZFRKZKHmWnChjHJW7OL3RVNatwU-DIMf7E6-jdUE1Ky6WB2Jp0Vinb4TQ4PnqLj5909FklBrnNdtoRdaNKiF1EdO-cQXTIPaytHDvx9e6fflUo3nMUvdAeaQpLA0aiwUZHVZXWNNy5avR_NNFKY6kVJKjMfdyxx6MZwgQSDrKkFNWHbP3W488gPyIeY5h8Tn3Dpjcf9iTQzvrXgWfM2fC91dSFxVnbWJlHX0r_zwEs8a6p8jg8BYo4ViMH9bJZzN_hDI8mMOzxhmoCmgPWvVdduT1pHS_LBvrvx2_7X0KTdAhWTylff5p6nv3aTTHD9bBh73t9krrcM2HNj6DZ4dtG4dIIUBoXh2n9_0BKzNoW7igoAVm4T4I5SgP_ay0Zs-gg6rpWzKFGf75DqMNbUzs5xVYJALhZESxXsIR0s6uUuHMDQRkTgwBlK6r05qTKaHop39gu4GMmZlG3KkMlvhpIqES4SfhpuYYz_Ph7D-Vz8nHy-jE57NhiajvwFnHvIgcRLj9WGacZaINn4Hrij4EOS80O4eh6JzajLJeLfaiPen2GhYdZF5jjq4uJihaZCH5vOKfExgk4sHb4TQ4gXzOwyt_r5b6VNbh4U_wnYxIneHHWqCvThPQ5LRZ1rIoEcb740Mhn_neM43wh7YFUMyO7aO_SZsMpLT5Z68z2kXl8p7lAiz2aQPJmQCcflOULMjHDx4Go4Exzc1MNeH2nxzHj7rHRqFxkDCCmEG0Uk8UdzD6S9ZBUZ_sDsSCHKFpCPqiBarK6SMeWTM1xRQ6kdRQx4pU8g1nia1sbLrvwXeJr403Q35Cj69iqkPFcUZba4Xmd7y7W1u5y0QdunfieXJbBdN5mAN3oZJFla7zXeQm9NbxdTcJFpL7oj9znTiswjfbplmlGSwilfgkIkNH0dfTLcGzh7CXO4GvqB9ca9keswH2YE8PecIkBLq3fpKsCEWbUjwtFmIs94b6Vb2_Mw7fLfvaCTYGWwvdT1wzJqeJczqBtR6YwQEN1pwUUG6H4xXQNSQ0nCyvEztUc6kGYSytp5AcBE-gjW4nWRSHtGkIKF8_jPG0qnn9RrTTgfpKFAIYuN7Tzx7988033KM9MaaMX2JH4c_tDiymGMIvv9mrwrMAe0weiYkcjgWFhz-FAZZQhrhIhnpScs2l4aU0ZuF_UcsHBbTnNFhRusi1UedocdDw6dh81hYJTxyBiQ3o7R3oFXUuUN0qwVXKMZ6hJ35rpvO99NLRum1uGTMw0GNfKVhadX4xvF6U1hLqvrCUbyA1IZA6ZhGjZqyhLRI308FIKm_R_6-4DN_zBL-ZCEumeyZReszOeMfkLPYcy6TH7Co2IeLJAVeP1fCiRsCGs8RxOL14aUJsMiGoyf6XowpBywlIPJSc_E0jULLQ8DLJYg2hJIviweyB-p0BZqpGFnx36-VyUfaa7BwTwGBU6syxSLvMQPm-BCHTZ6xBnddbNY4RQHyN7KpJm6q9qC5YDyN9tRkZihlUaN6D7u-D6_3GMqkyx5yH7TFjCcrXG0-kxGUVTTgh80KQvlenpskgVs9Vm8i08hTERVKdi0-L8marRBxRQPmL-jMpz0mko78A1bbl9z1kcZ6NnKWLENivU1LBWd9ezOuknYL3Y9bGfv_ZPGIrT7JA4FX_KRwPlDvWu_6xprKwLyeHkmjOl3RdEDb8px6Armhky6-qgewOja4K-TJNgwhq4oltEnwwFHAMDzkzmViQFFtQufYbcoH3xgUp_ZpSv7Be-TxoAB542crrSn9Q13i2wc8WsITgNpY3nxowgqyIMHr_-tBlC9aGpylYQ49BYxdohaAvEZ3vHXBb3ohg9o-MFNO5kxQlsD3J3Sexy_lm-U1MQhI41zXyQZsW8vLUKzVpt2pGEEQp7kXthN1JezGrlXBC2Q5RNZZ66vY2M8kGWP1nOdNojnvGPSZhnN2D-ktUuP7NJF7GRLpehDZV-0JnAJ0DuvXEFeQ66bewjshoS3dsuPPtgJ08G7J5OTo61K4uUcMDYQyUZLg5psOvH8I5hZaYDSExsQ3Jmal_rbS5emtNQWFLMI_GrXo1wiARdWV6Fx3XzjR2TE-PqtFqpJhqHImNwfVvOwWVB0Q2gyCRp57hsm7UK-mh6gP_aLzZoih-rrzak9bgDRZmxqVhqbHevNda3IKtyUpvllP8asc6yk68QE7k7_J2xykRqgFFZUyrgH85jrWGCg18fLq2q8aYpTOoTMSiyq88GdQvgbj1e4UQibIFu71PQm1DZBCCOyCk_nylyZ6a3HNqDOGq6W2VcIPy7GYc8oPFGpe66jLiQ3xDLFEOP0MjBdvHIEwPiK8ZrjkAl8lNqj7CThLVx_ZJF8BL0iqyTWiHYL2yeU0HmCgc01hcAv4aN2Hr-yhM7cTemAUeTkdkBQRFknGg0-gJKCk4q3uJTEdO2mHCcgzpOGMMzb8pjkm920v-1qIc9A5MZ5P6KEBlcSIrAl8_VrNiGCj-oYgWo9PYC0t79dIWuDy_GddnDgengd-CgU-wjBY6rCLDdbzMC4t0IMqhTUj40KMy_a_MqgGyknLGDmO9xuLRn9QgJKk8wGasciE3edbcYmGGpl2lEF3KEDP6w6E-vUPYBWBdYVVCM_6MUuhUxnB-4qjjym-MMuST8nwU50RxJrLBJqvTdE4A_5L9gshLHVpTnxSaqDUyWJf_heD6hhtEV-s9bCJlDzvFiAVzUgRkjxvG0cNLDHBLkJH6HuWBDOOCLNl6hxqUhrZTgRdoV4E64Et65vLWxF5O05oWzdtVRqwP10kuYoz_qIdTniOVoGjhOJAd9DAobhaYtDoeOG-SYGwzy_xjCxCMzDK_HcCmB8AzGde0vLibjtlWya56an09oLnRLFF_QGdWh2L6u1r4PeuvVLdZhhAp1aPINlgGTRhp1pTT7iJyHnojRbhuelNQNxfqXMcj9wbwNFUMFaq6m74fgHnZvxbSOXweiaGzT_apcJ7NallrpmKwmO_TJm7RCrNtmJ-oZhmdyZ8KBjE8UXI5B0wtrA0x7sOwAqEmmGvRvuCMYTBC-a35SNElTGGMhoqWelwU_8yd0THFISxs6qEYb4BJP8N4sQt77h9CrPZdOppiCbb8GZwusxHDeNjqeO9ABEGrCP7mn_Wh9uXJ3QXCLnsk31-ihNGsr46z9sIdBUeqsl-2ujVBUVF2WVrluO5hOE2n9OWTn-pw0lQzLKRTko43_zZusSOFRQM2J2141c_npYvvCDbu12GditiK4i6SU-HxneiQHi-ZXK6CBT4ecQU0lC4ug7JbvlfOG1gjdyJL03MMtmO6ib7I28SUmLai4vcynltTho792RQtYxTYhi-L9cM0pLSAQVDzaHMlFXqoEbIeOF_OmTwl4_7IlkUL1bc1u6ZmBsWOSLAhcK4dDAnEbwXXnw-UVu5WCHouCRn4cLKFQilCv08ushZzpkvGLyZkkJDdJS5-5xDmMswP4_dWHiokjQGA7qd60Ofkw8-pNgf-NbeoV1F6mgyVuyWpyR5K0hVvVx5IPBpA-x7B2aaZV1rdF4jQ6E6qmvBsANLBqKx9eVXtrujY7dVRM5W7OcHOrUtCq7AW2oGOMJ659rW98e1MMS_4S7_A6kyW-ziD7-0nVmEQejyKOp3of8e5fVLaohYaDuFLj8Aox72tnp-mZbE8gKZOpFZ2H45BT9gNgJuXOR9ypnBS4VkCK9hN2J8cLHBGYUHV37p-FhxAUg1Gfx-7dMdvnrgy4aWH1kuF8AI4TS6dAOu0P7GWwmaDzUBp8qVqC16w1cBeWSoRh_yUxCgqePipdFCquX5eMGLD8o5CTOgMIgX90YGlMpS-4Z1LBggmGHaMCrXzSqkWdS8Y64vot1-ZaXu2dOsmB9FSiXPAWwiAKj5KhTt8ekdz62NtYCttc2-3un44GOpYpXIypCmzXP9CnUQYmlibs-e37nYcoFuJup9rRHSbv_CGY8giVMqrAYCxIWKG5pBhLXM6pHdT58NYj8CTu3kS91Z4WymdTcfBEqcFZTht99-oVyQDEY3fYISxf1d6c38PGJrlZJloqNdy-mP5-ZdJ3YYWQ-mO3RLQwNzp1fRVSnVYQWjBvaFWlFjVaPdcDMV8y7RR0z62_WXA2jj5fM0RPCtUaIf5Bq4sPiH8wgvoTtdj05zQoItQUwC11l_oC9ZJPiDeEKq7so5VojR0",
+      "status": null
+    },
+    {
+      "id": "msg_06f5a9dbd2103518016ae2e68a6cc087d280879eb9998223fc",
+      "content": [
+        {
+          "annotations": [],
+          "text": "import sys\n\n\ndef solve():\n    data = list(map(int, sys.stdin.buffer.read().split()))\n    out = []\n\n    for i in range(1, len(data), 3):\n        a, b, c = data[i:i + 3]\n\n        r = c % a\n        C = c - r if r <= a - r else c + a - r\n        best = b - a + abs(C - c)\n        answer = (a, a, C)\n\n        r = c % b\n        C = c - r if r <= b - r else c + b - r\n        cost = a - 1 + abs(C - c)\n        if cost < best:\n            best = cost\n            answer = (1, b, C)\n\n        for A in range(max(1, a - best), a + best + 1):\n            da = abs(A - a)\n            if da >= best:\n                continue\n\n            remaining = best - da - 1\n            low = max(1, (b - remaining + A - 1) // A)\n            high = (b + remaining) // A\n\n            for B in range(low * A, high * A + 1, A):\n                partial = da + abs(B - b)\n                if partial >= best:\n                    continue\n\n                if B > c:\n                    C = B\n                    distance = B - c\n                else:\n                    r = c % B\n                    if r <= B - r:\n                        C = c - r\n                        distance = r\n                    else:\n                        C = c + B - r\n                        distance = B - r\n\n                cost = partial + distance\n                if cost < best:\n                    best = cost\n                    answer = (A, B, C)\n\n            if best == 0:\n                break\n\n        out.append(str(best))\n        out.append(\"{} {} {}\".format(*answer))\n\n    sys.stdout.write(\"\\n\".join(out))\n\n\nif __name__ == \"__main__\":\n    solve()\n",
+          "type": "output_text",
+          "logprobs": []
+        }
+      ],
+      "role": "assistant",
+      "status": "completed",
+      "type": "message",
+      "phase": "final_answer"
+    }
+  ],
+  "parallel_tool_calls": true,
+  "temperature": 1.0,
+  "tool_choice": "auto",
+  "tools": [],
+  "top_p": 0.98,
+  "background": false,
+  "completed_at": 1793255054.0,
+  "conversation": null,
+  "max_output_tokens": 16000,
+  "max_tool_calls": null,
+  "moderation": null,
+  "previous_response_id": null,
+  "prompt": null,
+  "prompt_cache_key": null,
+  "prompt_cache_options": null,
+  "prompt_cache_retention": "24h",
+  "reasoning": {
+    "context": "all_turns",
+    "effort": "medium",
+    "generate_summary": null,
+    "mode": "standard",
+    "summary": null
+  },
+  "safety_identifier": null,
+  "service_tier": "default",
+  "status": "completed",
+  "text": {
+    "format": {
+      "type": "text"
+    },
+    "verbosity": "medium"
+  },
+  "top_logprobs": 0,
+  "truncation": "disabled",
+  "usage": {
+    "input_tokens": 439,
+    "input_tokens_details": {
+      "cache_write_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens": 919,
+    "output_tokens_details": {
+      "reasoning_tokens": 496
+    },
+    "total_tokens": 1358
+  },
+  "user": null,
+  "access_programs": null,
+  "billing": {
+    "payer": "developer"
+  },
+  "frequency_penalty": 0.0,
+  "presence_penalty": 0.0,
+  "store": false,
+  "tool_usage": {
+    "image_gen": {
+      "input_tokens": 0,
+      "input_tokens_details": {
+        "image_tokens": 0,
+        "text_tokens": 0
+      },
+      "output_tokens": 0,
+      "output_tokens_details": {
+        "image_tokens": 0,
+        "text_tokens": 0
+      },
+      "total_tokens": 0
+    },
+    "web_search": {
+      "num_requests": 0
+    }
+  }
+}

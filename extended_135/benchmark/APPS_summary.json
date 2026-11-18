@@ -1,0 +1,95 @@
+{
+  "created_at_utc": "2026-11-18T01:03:34.026794+00:00",
+  "source_dataset": "https://huggingface.co/datasets/metr-evals/apps",
+  "input_output_provenance": "APPS test split, not public samples, IDs verified against original prompts",
+  "results_by_person": {
+    "person_1": {
+      "evaluated": 90,
+      "validated_pass": 84,
+      "validated_denominator": 86,
+      "benchmark_pass": 88,
+      "benchmark_denominator": 90
+    },
+    "person_2": {
+      "evaluated": 90,
+      "validated_pass": 86,
+      "validated_denominator": 90,
+      "benchmark_pass": 86,
+      "benchmark_denominator": 90
+    },
+    "person_3": {
+      "evaluated": 90,
+      "validated_pass": 80,
+      "validated_denominator": 82,
+      "benchmark_pass": 86,
+      "benchmark_denominator": 90
+    }
+  },
+  "paired_by_tier": {
+    "person_1/introductory": {
+      "fully_validated_pairs": 15,
+      "both_pass": 14,
+      "clear_only": 0,
+      "ambiguous_only": 0,
+      "both_fail": 1
+    },
+    "person_1/interview": {
+      "fully_validated_pairs": 14,
+      "both_pass": 14,
+      "clear_only": 0,
+      "ambiguous_only": 0,
+      "both_fail": 0
+    },
+    "person_1/competition": {
+      "fully_validated_pairs": 14,
+      "both_pass": 14,
+      "clear_only": 0,
+      "ambiguous_only": 0,
+      "both_fail": 0
+    },
+    "person_2/introductory": {
+      "fully_validated_pairs": 15,
+      "both_pass": 15,
+      "clear_only": 0,
+      "ambiguous_only": 0,
+      "both_fail": 0
+    },
+    "person_2/interview": {
+      "fully_validated_pairs": 15,
+      "both_pass": 15,
+      "clear_only": 0,
+      "ambiguous_only": 0,
+      "both_fail": 0
+    },
+    "person_2/competition": {
+      "fully_validated_pairs": 15,
+      "both_pass": 13,
+      "clear_only": 0,
+      "ambiguous_only": 0,
+      "both_fail": 2
+    },
+    "person_3/introductory": {
+      "fully_validated_pairs": 14,
+      "both_pass": 14,
+      "clear_only": 0,
+      "ambiguous_only": 0,
+      "both_fail": 0
+    },
+    "person_3/interview": {
+      "fully_validated_pairs": 14,
+      "both_pass": 14,
+      "clear_only": 0,
+      "ambiguous_only": 0,
+      "both_fail": 0
+    },
+    "person_3/competition": {
+      "fully_validated_pairs": 13,
+      "both_pass": 12,
+      "clear_only": 0,
+      "ambiguous_only": 0,
+      "both_fail": 1
+    }
+  },
+  "interpretation": "Pass@1 validated uses authentic APPS cases with reference-output comparison or reviewed semantic/numeric validators. Reference-only multi-output cases are excluded from validated column. APPS test suites are not necessarily exhaustive hidden official judge cases.",
+  "rows": 270
+}

@@ -1,0 +1,91 @@
+﻿problem_id,difficulty,condition,has_tests,test_count,has_generated_code,pass_at_1,passed_before_first_failure,failure_type,failure_index_1based,checker,model,input_tokens,output_tokens,review_status,source_group,provenance,notes
+4000,introductory,clear,True,250,True,1,250,,,semantic,gpt-6.1-sol,596,517,not_documented,pilot_prompts_15,batch_runner,
+4000,introductory,ambiguous,True,250,True,1,250,,,semantic,gpt-6.1-sol,614,529,not_documented,pilot_prompts_15,batch_runner,
+4001,introductory,clear,True,244,True,1,244,,,semantic,gpt-6.1-sol,524,114,not_documented,selected_original_ambiguous,batch_runner,
+4001,introductory,ambiguous,True,244,True,1,244,,,semantic,gpt-6.1-sol,294,116,not_documented,selected_original_ambiguous,batch_runner,
+4002,introductory,clear,True,241,True,1,241,,,reference_tokens,gpt-6.1-sol,481,700,exploratory_unreviewed,revised_15,batch_runner,independent_prompt_review_required; EXPLORATORY_ONLY: no independent review of prompt equivalence or clarity manipulation; not a validated confirmatory sample.
+4002,introductory,ambiguous,True,241,True,1,241,,,reference_tokens,gpt-6.1-sol,458,739,exploratory_unreviewed,revised_15,batch_runner,independent_prompt_review_required; EXPLORATORY_ONLY: no independent review of prompt equivalence or clarity manipulation; not a validated confirmatory sample.
+4003,introductory,clear,True,235,True,1,235,,,semantic,gpt-6.1-sol,599,325,not_documented,pilot_prompts_15,batch_runner,
+4003,introductory,ambiguous,True,235,True,1,235,,,semantic,gpt-6.1-sol,455,343,not_documented,pilot_prompts_15,batch_runner,
+4004,introductory,clear,True,155,True,1,155,,,,gpt-6.1-sol,,,not_documented,selected_original_ambiguous,user_uploaded_pilot_results,
+4004,introductory,ambiguous,True,155,True,1,155,,,,gpt-6.1-sol,,,not_documented,selected_original_ambiguous,user_uploaded_pilot_results,
+4005,introductory,clear,True,134,True,1,134,,,reference_tokens,gpt-6.1-sol,812,217,exploratory_unreviewed,revised_15,batch_runner,"independent_prompt_review_required; SOURCE_DEVIATION_4005: in both prompts corrected ""not strictly inside the white sheet"" to ""strictly inside the white sheet""; see original contradictory source wording.; EXPLORATORY_ONLY: no independent review of prompt equivalence or clarity manipulation; not a validated confirmatory sample."
+4005,introductory,ambiguous,True,134,True,1,134,,,reference_tokens,gpt-6.1-sol,797,215,exploratory_unreviewed,revised_15,batch_runner,"independent_prompt_review_required; SOURCE_DEVIATION_4005: in both prompts corrected ""not strictly inside the white sheet"" to ""strictly inside the white sheet""; see original contradictory source wording.; EXPLORATORY_ONLY: no independent review of prompt equivalence or clarity manipulation; not a validated confirmatory sample."
+4006,introductory,clear,True,130,True,1,130,,,reference_tokens,gpt-6.1-sol,449,58,not_documented,pilot_prompts_15,batch_runner,
+4006,introductory,ambiguous,True,130,True,1,130,,,reference_tokens,gpt-6.1-sol,298,58,not_documented,pilot_prompts_15,batch_runner,
+4007,introductory,clear,True,129,True,1,129,,,semantic,gpt-6.1-sol,640,302,not_documented,selected_original_ambiguous,batch_runner,
+4007,introductory,ambiguous,True,129,True,1,129,,,semantic,gpt-6.1-sol,528,360,not_documented,selected_original_ambiguous,batch_runner,
+4008,introductory,clear,True,100,True,1,100,,,reference_tokens,gpt-6.1-sol,573,173,exploratory_unreviewed,revised_15,batch_runner,independent_prompt_review_required; EXPLORATORY_ONLY: no independent review of prompt equivalence or clarity manipulation; not a validated confirmatory sample.
+4008,introductory,ambiguous,True,100,True,1,100,,,reference_tokens,gpt-6.1-sol,531,204,exploratory_unreviewed,revised_15,batch_runner,independent_prompt_review_required; EXPLORATORY_ONLY: no independent review of prompt equivalence or clarity manipulation; not a validated confirmatory sample.
+4009,introductory,clear,True,99,True,1,99,,,reference_tokens,gpt-6.1-sol,480,88,not_documented,pilot_prompts_15,batch_runner,
+4009,introductory,ambiguous,True,99,True,1,99,,,reference_tokens,gpt-6.1-sol,426,99,not_documented,pilot_prompts_15,batch_runner,
+4010,introductory,clear,True,98,True,1,98,,,reference_tokens,gpt-6.1-sol,873,164,not_documented,selected_original_ambiguous,batch_runner,
+4010,introductory,ambiguous,True,98,True,1,98,,,reference_tokens,gpt-6.1-sol,374,164,not_documented,selected_original_ambiguous,batch_runner,
+4011,introductory,clear,True,89,True,1,89,,,reference_tokens,gpt-6.1-sol,448,153,exploratory_unreviewed,revised_15,batch_runner,independent_prompt_review_required; EXPLORATORY_ONLY: no independent review of prompt equivalence or clarity manipulation; not a validated confirmatory sample.
+4011,introductory,ambiguous,True,89,True,1,89,,,reference_tokens,gpt-6.1-sol,445,140,exploratory_unreviewed,revised_15,batch_runner,independent_prompt_review_required; EXPLORATORY_ONLY: no independent review of prompt equivalence or clarity manipulation; not a validated confirmatory sample.
+4012,introductory,clear,True,81,True,1,81,,,semantic,gpt-6.1-sol,476,1182,not_documented,pilot_prompts_15,batch_runner,
+4012,introductory,ambiguous,True,81,True,1,81,,,semantic,gpt-6.1-sol,439,919,not_documented,pilot_prompts_15,batch_runner,
+4013,introductory,clear,True,78,True,1,78,,,reference_tokens,gpt-6.1-sol,364,75,not_documented,selected_original_ambiguous,batch_runner,
+4013,introductory,ambiguous,True,78,True,1,78,,,reference_tokens,gpt-6.1-sol,222,75,not_documented,selected_original_ambiguous,batch_runner,
+4014,introductory,clear,True,77,True,1,77,,,reference_tokens,gpt-6.1-sol,945,355,exploratory_unreviewed,revised_15,batch_runner,independent_prompt_review_required; EXPLORATORY_ONLY: no independent review of prompt equivalence or clarity manipulation; not a validated confirmatory sample.
+4014,introductory,ambiguous,True,77,True,1,77,,,reference_tokens,gpt-6.1-sol,946,373,exploratory_unreviewed,revised_15,batch_runner,independent_prompt_review_required; EXPLORATORY_ONLY: no independent review of prompt equivalence or clarity manipulation; not a validated confirmatory sample.
+0,interview,clear,True,565,True,1,565,,,reference_tokens,gpt-6.1-sol,359,253,not_documented,pilot_prompts_15,batch_runner,
+0,interview,ambiguous,True,565,True,1,565,,,reference_tokens,gpt-6.1-sol,273,140,not_documented,pilot_prompts_15,batch_runner,
+1,interview,clear,True,278,True,1,278,,,reference_tokens,gpt-6.1-sol,192,212,not_documented,selected_original_ambiguous,batch_runner,
+1,interview,ambiguous,True,278,True,1,278,,,reference_tokens,gpt-6.1-sol,173,158,not_documented,selected_original_ambiguous,batch_runner,
+2,interview,clear,True,271,True,1,271,,,reference_tokens,gpt-6.1-sol,240,110,exploratory_unreviewed,revised_15,batch_runner,independent_prompt_review_required; EXPLORATORY_ONLY: no independent review of prompt equivalence or clarity manipulation; not a validated confirmatory sample.
+2,interview,ambiguous,True,271,True,1,271,,,reference_tokens,gpt-6.1-sol,230,89,exploratory_unreviewed,revised_15,batch_runner,independent_prompt_review_required; EXPLORATORY_ONLY: no independent review of prompt equivalence or clarity manipulation; not a validated confirmatory sample.
+3,interview,clear,True,259,True,1,259,,,reference_tokens,gpt-6.1-sol,368,1174,not_documented,pilot_prompts_15,batch_runner,
+3,interview,ambiguous,True,259,True,1,259,,,reference_tokens,gpt-6.1-sol,344,875,not_documented,pilot_prompts_15,batch_runner,
+4,interview,clear,True,254,True,1,254,,,,gpt-6.1-sol,,,not_documented,selected_original_ambiguous,user_terminal_output_reported,
+4,interview,ambiguous,True,254,True,1,254,,,,gpt-6.1-sol,,,not_documented,selected_original_ambiguous,user_terminal_output_reported,
+5,interview,clear,True,229,True,1,229,,,reference_tokens,gpt-6.1-sol,554,125,exploratory_unreviewed,revised_15,batch_runner,independent_prompt_review_required; EXPLORATORY_ONLY: no independent review of prompt equivalence or clarity manipulation; not a validated confirmatory sample.
+5,interview,ambiguous,True,229,True,1,229,,,reference_tokens,gpt-6.1-sol,531,123,exploratory_unreviewed,revised_15,batch_runner,independent_prompt_review_required; EXPLORATORY_ONLY: no independent review of prompt equivalence or clarity manipulation; not a validated confirmatory sample.
+6,interview,clear,True,224,True,1,224,,,reference_tokens,gpt-6.1-sol,663,194,not_documented,pilot_prompts_15,batch_runner,
+6,interview,ambiguous,True,224,True,1,224,,,reference_tokens,gpt-6.1-sol,513,194,not_documented,pilot_prompts_15,batch_runner,
+7,interview,clear,True,223,True,1,223,,,reference_tokens,gpt-6.1-sol,732,219,not_documented,selected_original_ambiguous,batch_runner,
+7,interview,ambiguous,True,223,True,1,223,,,reference_tokens,gpt-6.1-sol,201,326,not_documented,selected_original_ambiguous,batch_runner,
+8,interview,clear,True,213,True,1,213,,,reference_tokens,gpt-6.1-sol,906,141,exploratory_unreviewed,revised_15,batch_runner,independent_prompt_review_required; EXPLORATORY_ONLY: no independent review of prompt equivalence or clarity manipulation; not a validated confirmatory sample.
+8,interview,ambiguous,True,213,True,1,213,,,reference_tokens,gpt-6.1-sol,904,117,exploratory_unreviewed,revised_15,batch_runner,independent_prompt_review_required; EXPLORATORY_ONLY: no independent review of prompt equivalence or clarity manipulation; not a validated confirmatory sample.
+9,interview,clear,True,205,True,1,205,,,reference_tokens,gpt-6.1-sol,1047,588,not_documented,pilot_prompts_15,batch_runner,
+9,interview,ambiguous,True,205,True,1,205,,,reference_tokens,gpt-6.1-sol,812,871,not_documented,pilot_prompts_15,batch_runner,
+10,interview,clear,True,198,True,1,198,,,reference_tokens,gpt-6.1-sol,256,53,not_documented,selected_original_ambiguous,batch_runner,
+10,interview,ambiguous,True,198,True,1,198,,,reference_tokens,gpt-6.1-sol,179,61,not_documented,selected_original_ambiguous,batch_runner,
+11,interview,clear,True,185,True,1,185,,,reference_tokens,gpt-6.1-sol,320,71,exploratory_unreviewed,revised_15,batch_runner,independent_prompt_review_required; EXPLORATORY_ONLY: no independent review of prompt equivalence or clarity manipulation; not a validated confirmatory sample.
+11,interview,ambiguous,True,185,True,1,185,,,reference_tokens,gpt-6.1-sol,333,74,exploratory_unreviewed,revised_15,batch_runner,independent_prompt_review_required; EXPLORATORY_ONLY: no independent review of prompt equivalence or clarity manipulation; not a validated confirmatory sample.
+12,interview,clear,True,182,True,1,182,,,reference_tokens,gpt-6.1-sol,408,184,not_documented,pilot_prompts_15,batch_runner,
+12,interview,ambiguous,True,182,True,1,182,,,reference_tokens,gpt-6.1-sol,374,194,not_documented,pilot_prompts_15,batch_runner,
+13,interview,clear,True,182,True,1,182,,,semantic,gpt-6.1-sol,684,464,not_documented,selected_original_ambiguous,batch_runner,
+13,interview,ambiguous,True,182,True,1,182,,,semantic,gpt-6.1-sol,538,527,not_documented,selected_original_ambiguous,batch_runner,
+14,interview,clear,True,181,True,1,181,,,reference_tokens,gpt-6.1-sol,709,660,exploratory_unreviewed,revised_15,batch_runner,independent_prompt_review_required; EXPLORATORY_ONLY: no independent review of prompt equivalence or clarity manipulation; not a validated confirmatory sample.
+14,interview,ambiguous,True,181,True,1,181,,,reference_tokens,gpt-6.1-sol,701,651,exploratory_unreviewed,revised_15,batch_runner,independent_prompt_review_required; EXPLORATORY_ONLY: no independent review of prompt equivalence or clarity manipulation; not a validated confirmatory sample.
+3000,competition,clear,True,6,True,1,6,,,reference_tokens,gpt-6.1-sol,821,248,not_documented,pilot_prompts_15,batch_runner,
+3000,competition,ambiguous,True,6,True,1,6,,,reference_tokens,gpt-6.1-sol,348,291,not_documented,pilot_prompts_15,batch_runner,
+3001,competition,clear,True,6,True,1,6,,,reference_tokens,gpt-6.1-sol,587,1049,not_documented,selected_original_ambiguous,batch_runner,
+3001,competition,ambiguous,True,6,True,1,6,,,reference_tokens,gpt-6.1-sol,263,1187,not_documented,selected_original_ambiguous,batch_runner,
+3002,competition,clear,True,5,True,1,5,,,reference_tokens,gpt-6.1-sol,894,1530,exploratory_unreviewed,revised_15,batch_runner,independent_prompt_review_required; EXPLORATORY_ONLY: no independent review of prompt equivalence or clarity manipulation; not a validated confirmatory sample.
+3002,competition,ambiguous,True,5,True,1,5,,,reference_tokens,gpt-6.1-sol,864,1713,exploratory_unreviewed,revised_15,batch_runner,independent_prompt_review_required; EXPLORATORY_ONLY: no independent review of prompt equivalence or clarity manipulation; not a validated confirmatory sample.
+3003,competition,clear,True,5,True,1,5,,,reference_tokens,gpt-6.1-sol,510,485,not_documented,pilot_prompts_15,batch_runner,
+3003,competition,ambiguous,True,5,True,1,5,,,reference_tokens,gpt-6.1-sol,425,465,not_documented,pilot_prompts_15,batch_runner,
+3004,competition,clear,True,5,True,1,5,,,,gpt-6.1-sol,,,not_documented,selected_original_ambiguous,user_uploaded_pilot_results,
+3004,competition,ambiguous,True,5,True,1,5,,,,gpt-6.1-sol,,,not_documented,selected_original_ambiguous,user_uploaded_pilot_results,
+3005,competition,clear,True,5,True,1,5,,,reference_tokens,gpt-6.1-sol,607,551,exploratory_unreviewed,revised_15,batch_runner,independent_prompt_review_required; EXPLORATORY_ONLY: no independent review of prompt equivalence or clarity manipulation; not a validated confirmatory sample.
+3005,competition,ambiguous,True,5,True,1,5,,,reference_tokens,gpt-6.1-sol,621,581,exploratory_unreviewed,revised_15,batch_runner,independent_prompt_review_required; EXPLORATORY_ONLY: no independent review of prompt equivalence or clarity manipulation; not a validated confirmatory sample.
+3006,competition,clear,True,5,True,1,5,,,reference_tokens,gpt-6.1-sol,669,778,not_documented,pilot_prompts_15,batch_runner,
+3006,competition,ambiguous,True,5,True,1,5,,,reference_tokens,gpt-6.1-sol,493,802,not_documented,pilot_prompts_15,batch_runner,
+3007,competition,clear,True,5,True,1,5,,,reference_tokens,gpt-6.1-sol,717,7802,not_documented,selected_original_ambiguous,batch_runner,
+3007,competition,ambiguous,True,5,True,1,5,,,reference_tokens,gpt-6.1-sol,546,4377,not_documented,selected_original_ambiguous,batch_runner,
+3008,competition,clear,True,5,True,1,5,,,reference_tokens,gpt-6.1-sol,554,1601,exploratory_unreviewed,revised_15,batch_runner,independent_prompt_review_required; EXPLORATORY_ONLY: no independent review of prompt equivalence or clarity manipulation; not a validated confirmatory sample.
+3008,competition,ambiguous,True,5,True,1,5,,,reference_tokens,gpt-6.1-sol,568,1784,exploratory_unreviewed,revised_15,batch_runner,independent_prompt_review_required; EXPLORATORY_ONLY: no independent review of prompt equivalence or clarity manipulation; not a validated confirmatory sample.
+3009,competition,clear,True,5,True,0,0,wrong_answer,1,reference_tokens,gpt-6.1-sol,637,3607,not_documented,pilot_prompts_15,batch_runner,
+3009,competition,ambiguous,True,5,True,0,0,wrong_answer,1,reference_tokens,gpt-6.1-sol,573,4419,not_documented,pilot_prompts_15,batch_runner,
+3010,competition,clear,True,5,True,1,5,,,reference_tokens,gpt-6.1-sol,439,1331,not_documented,selected_original_ambiguous,batch_runner,
+3010,competition,ambiguous,True,5,True,1,5,,,reference_tokens,gpt-6.1-sol,409,1345,not_documented,selected_original_ambiguous,batch_runner,
+3011,competition,clear,True,5,True,1,5,,,reference_tokens,gpt-6.1-sol,302,336,exploratory_unreviewed,revised_15,batch_runner,independent_prompt_review_required; EXPLORATORY_ONLY: no independent review of prompt equivalence or clarity manipulation; not a validated confirmatory sample.
+3011,competition,ambiguous,True,5,True,1,5,,,reference_tokens,gpt-6.1-sol,279,478,exploratory_unreviewed,revised_15,batch_runner,independent_prompt_review_required; EXPLORATORY_ONLY: no independent review of prompt equivalence or clarity manipulation; not a validated confirmatory sample.
+3012,competition,clear,True,5,True,1,5,,,reference_tokens,gpt-6.1-sol,1146,2517,not_documented,pilot_prompts_15,batch_runner,
+3012,competition,ambiguous,True,5,True,0,4,wrong_answer,5,reference_tokens,gpt-6.1-sol,633,2522,not_documented,pilot_prompts_15,batch_runner,
+3013,competition,clear,True,5,True,1,5,,,float_reference_provisional,gpt-6.1-sol,710,1588,not_documented,selected_original_ambiguous,batch_runner,
+3013,competition,ambiguous,True,5,True,1,5,,,float_reference_provisional,gpt-6.1-sol,551,2250,not_documented,selected_original_ambiguous,batch_runner,
+3014,competition,clear,True,5,True,1,5,,,reference_tokens,gpt-6.1-sol,611,208,exploratory_unreviewed,revised_15,batch_runner,independent_prompt_review_required; EXPLORATORY_ONLY: no independent review of prompt equivalence or clarity manipulation; not a validated confirmatory sample.
+3014,competition,ambiguous,True,5,True,1,5,,,reference_tokens,gpt-6.1-sol,601,201,exploratory_unreviewed,revised_15,batch_runner,independent_prompt_review_required; EXPLORATORY_ONLY: no independent review of prompt equivalence or clarity manipulation; not a validated confirmatory sample.

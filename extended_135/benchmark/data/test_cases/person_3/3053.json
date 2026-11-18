@@ -1,0 +1,25 @@
+{
+  "problem_id": "3053",
+  "test_source": "Original APPS test split via https://huggingface.co/datasets/metr-evals/apps; dataset viewer: https://datasets-server.huggingface.co/rows?dataset=metr-evals%2Fapps&config=default&split=test&offset=3053&length=1",
+  "source_dataset": "metr-evals/apps",
+  "source_split": "test",
+  "source_problem_url": "https://open.kattis.com/problems/inspirationmanifestation",
+  "retrieved_at_utc": "2026-11-18T01:00:30.066805+00:00",
+  "verification": "id_and_question_exact_prefix",
+  "review_status": "approved",
+  "validation_scope": "semantic_checker_reviewed",
+  "checker": "semantic",
+  "inputs": [
+    "6 5 3\n",
+    "9 8 1\n",
+    "5 3 5\n",
+    "2 2 2\n"
+  ],
+  "outputs": [
+    "rarity\n",
+    "canterlot\n",
+    "madam\n",
+    "IMPOSSIBLE\n"
+  ],
+  "suite_sha256": "893a5c5fd61719c71a5831cd79836d1f7183e7a10251ec29e1251a802b75edd2"
+}

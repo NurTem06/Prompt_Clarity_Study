@@ -1,0 +1,27 @@
+{
+  "problem_id": "3052",
+  "test_source": "Original APPS test split via https://huggingface.co/datasets/metr-evals/apps; dataset viewer: https://datasets-server.huggingface.co/rows?dataset=metr-evals%2Fapps&config=default&split=test&offset=3052&length=1",
+  "source_dataset": "metr-evals/apps",
+  "source_split": "test",
+  "source_problem_url": "https://open.kattis.com/problems/airportlogistics",
+  "retrieved_at_utc": "2026-11-18T01:00:30.023507+00:00",
+  "verification": "id_and_question_exact_prefix",
+  "review_status": "approved",
+  "validation_scope": "numeric_tolerance_from_problem_statement",
+  "checker": "numeric_tolerance",
+  "inputs": [
+    "60.0 0.0 50.0 170.0\n3\n40.0 0.0 0.0 0.0\n5.0 20.0 5.0 170.0\n95.0 0.0 95.0 80.0\n",
+    "60.0 0.0 50.0 170.0\n3\n40.0 0.0 0.0 0.0\n5.0 20.0 5.0 170.0\n95.0 0.0 95.0 100.0\n",
+    "0.0 1.0 4.0 1.0\n1\n0.0 0.0 4.0 0.0\n",
+    "0.0 1.0 10.0 1.0\n2\n1.0 0.0 2.0 3.0\n6.0 1.0 4.0 1.0\n"
+  ],
+  "outputs": [
+    "168.7916512460\n",
+    "163.5274740179\n",
+    "3.7320508076\n",
+    "10.0000000000\n"
+  ],
+  "abs_tol": 0.0001,
+  "rel_tol": 0.0,
+  "suite_sha256": "7a79ddc033aff4016d4a0f761dcfa2661680adc15ba70cfc38f7069d94da0c27"
+}

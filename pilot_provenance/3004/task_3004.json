@@ -1,0 +1,25 @@
+{
+  "problem_id": 3004,
+  "difficulty": "competition",
+  "url": "https://open.kattis.com/problems/paintingafence",
+  "clear_prompt": "You need to hire some people to paint a fence. The fence is composed of $10000$ contiguous sections, numbered from $1$ to $10000$.\n\nYou get some offers from painters to help paint the fence. Each painter offers to paint a contiguous subset of fence sections in a particular color. You need to accept a set of the offers, such that:\n - Each section of the fence is painted.\n - At most 3 colors are used to paint the fence.\n\nIf it is possible to satisfy these two requirements, find the minimum number of offers that you must accept.\n\n-----Input-----\nThe first line of input contains an integer $N$, the number of offers. Then follow $N$ lines, one for each offer, each containing “$C$ $A$ $B$” where $C$ is the color, which is an uppercase string of up to 10 letters, $A$ is the first section and $B$ is the last section to be painted. $1 \\leq A \\leq B \\leq 10000$.\n\nYou may assume that $1 \\leq N \\leq 300$.\n\n-----Output-----\nOutput one line containing the number of offers that need to be accepted, or “IMPOSSIBLE” if there is no acceptable set of offers.\n\n-----Examples-----\nSample Input 1:\n2\nBLUE 1 5000\nRED 5001 10000\nSample Output 1:\n2\n\nSample Input 2:\n3\nBLUE 1 6000\nRED 2000 8000\nWHITE 7000 10000\nSample Output 2:\n3\n\nSample Input 3:\n4\nBLUE 1 3000\nRED 2000 5000\nORANGE 4000 8000\nGREEN 7000 10000\nSample Output 3:\nIMPOSSIBLE\n\nSample Input 4:\n2\nBLUE 1 4000\nRED 4002 10000\nSample Output 4:\nIMPOSSIBLE",
+  "ambiguous_prompt": "Choose painter offers to cover the fence's 10000 consecutive sections, numbered 1 through 10000, using no more than three colors. Each offer covers its stated inclusive interval in its stated color. Find the fewest offers that suffice, or report IMPOSSIBLE.\n\n-----Input-----\nThe first line of input contains an integer $N$, the number of offers. Then follow $N$ lines, one for each offer, each containing “$C$ $A$ $B$” where $C$ is the color, which is an uppercase string of up to 10 letters, $A$ is the first section and $B$ is the last section to be painted. $1 \\leq A \\leq B \\leq 10000$.\n\nYou may assume that $1 \\leq N \\leq 300$.\n\n-----Output-----\nOutput one line containing the number of offers that need to be accepted, or “IMPOSSIBLE” if there is no acceptable set of offers.\n\n-----Examples-----\nSample Input 1:\n2\nBLUE 1 5000\nRED 5001 10000\nSample Output 1:\n2\n\nSample Input 2:\n3\nBLUE 1 6000\nRED 2000 8000\nWHITE 7000 10000\nSample Output 2:\n3\n\nSample Input 3:\n4\nBLUE 1 3000\nRED 2000 5000\nORANGE 4000 8000\nGREEN 7000 10000\nSample Output 3:\nIMPOSSIBLE\n\nSample Input 4:\n2\nBLUE 1 4000\nRED 4002 10000\nSample Output 4:\nIMPOSSIBLE\n",
+  "system_message": "Solve the programming problem using Python 3. Read from standard input and write to standard output. Return only executable Python 3 source code, without Markdown or explanations.",
+  "test_cases": {
+    "inputs": [
+      "2\nBLUE 1 5000\nRED 5001 10000\n",
+      "3\nBLUE 1 6000\nRED 2000 8000\nWHITE 7000 10000\n",
+      "4\nBLUE 1 3000\nRED 2000 5000\nORANGE 4000 8000\nGREEN 7000 10000\n",
+      "2\nBLUE 1 4000\nRED 4002 10000\n",
+      "3\nBLUE 1 6000\nRED 4000 10000\nORANGE 3000 8000\n"
+    ],
+    "outputs": [
+      "2\n",
+      "3\n",
+      "IMPOSSIBLE\n",
+      "IMPOSSIBLE\n",
+      "2\n"
+    ]
+  },
+  "notes": "From user-supplied selected_tasks_original.json and selected_tasks_ambiguous.json. These contain just 5 cases for this competition problem; results apply only to these cases. Prompt equivalence and clarity difference require human cross-review."
+}

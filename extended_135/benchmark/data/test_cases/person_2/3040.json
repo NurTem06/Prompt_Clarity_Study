@@ -1,0 +1,25 @@
+{
+  "problem_id": "3040",
+  "test_source": "Original APPS test split via https://huggingface.co/datasets/metr-evals/apps; dataset viewer: https://datasets-server.huggingface.co/rows?dataset=metr-evals%2Fapps&config=default&split=test&offset=3040&length=1",
+  "source_dataset": "metr-evals/apps",
+  "source_split": "test",
+  "source_problem_url": "https://open.kattis.com/problems/repeatedsubstrings",
+  "retrieved_at_utc": "2026-11-18T01:00:22.420091+00:00",
+  "verification": "id_and_question_exact_prefix",
+  "review_status": "approved",
+  "validation_scope": "reference_comparison_unique_output_candidate",
+  "checker": "reference_tokens",
+  "inputs": [
+    "abcefgabc\n",
+    "abcbabcba\n",
+    "aaaa\n",
+    "bbcaadbbeaa\n"
+  ],
+  "outputs": [
+    "abc\n",
+    "abcba\n",
+    "aaa\n",
+    "aa\n"
+  ],
+  "suite_sha256": "e59b133511746fd32921db76132b76d02062e5db3361d5825d69cd50f6ec7869"
+}

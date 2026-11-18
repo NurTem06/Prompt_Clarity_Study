@@ -1,0 +1,25 @@
+{
+  "problem_id": "3038",
+  "test_source": "Original APPS test split via https://huggingface.co/datasets/metr-evals/apps; dataset viewer: https://datasets-server.huggingface.co/rows?dataset=metr-evals%2Fapps&config=default&split=test&offset=3038&length=1",
+  "source_dataset": "metr-evals/apps",
+  "source_split": "test",
+  "source_problem_url": "https://open.kattis.com/problems/kallaxconstruction",
+  "retrieved_at_utc": "2026-11-18T01:00:22.912408+00:00",
+  "verification": "id_and_question_exact_prefix",
+  "review_status": "approved",
+  "validation_scope": "reference_comparison_unique_output_candidate",
+  "checker": "reference_tokens",
+  "inputs": [
+    "371\n3\n2 40 65\n2 100 150\n2 300 320\n",
+    "310\n3\n2 40 65\n2 100 150\n2 300 320\n",
+    "90\n2\n2 20 35\n2 88 200\n",
+    "91\n2\n2 20 35\n2 88 200\n"
+  ],
+  "outputs": [
+    "impossible\n",
+    "300\n",
+    "88\n",
+    "200\n"
+  ],
+  "suite_sha256": "47fb2b8dc3a81c5d92c28b34a8a398e56c5510818396631a0bdf3fd6dfbc8cae"
+}

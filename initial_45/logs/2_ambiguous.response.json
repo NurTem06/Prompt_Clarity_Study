@@ -1,0 +1,107 @@
+{
+  "id": "resp_0cead153e95e74b1016ae2f0df17a087d2ba26f6e002f60eb0",
+  "created_at": 1793257695.0,
+  "error": null,
+  "incomplete_details": null,
+  "instructions": "Solve the programming problem using Python 3. Read from standard input and write to standard output. Return only executable Python 3 source code, without Markdown or explanations.",
+  "metadata": {},
+  "model": "gpt-6.1-sol",
+  "object": "response",
+  "output": [
+    {
+      "id": "rs_0cead153e95e74b1016ae2f0dfff6487d2823e0d29496a02e7",
+      "summary": [],
+      "type": "reasoning",
+      "content": [],
+      "encrypted_content": "gAAAAABq4vDh8skofHYlVF3awH4SGTTSuSWDhMumIzF6jV3wrhSylFR3EGxK6zaZGMrRYLqkOVxQjr1tbmY9cte2h1-857sjm0rxAnXSBBknEFqQtmdeZig7cY_PLfgPgHF92Dm58Y7PpKxVDJzWD6wtZJn_wtLSp-NM5RpZ3zWDqpy5QZaGreF_FpcCwoYfnxdWTeFrAZnPozl3Rp3gRcnylQXVykXRVB7oP8a3v9UdgfUgRwousKBLRz5AT_72G-Gb-QIydk803VbbVgNxcXG6FOMp57GiBtJ5wQl_jxR6Zs0_3fvEl9BuUz9JcMq_qYi0Mbk4ruYh0j7S5xAWifabH-QXqVbzdxgssDcztGZrCNeCQPc1ZaJtmrWnkuVj3s2xK87c-aiFlGw8MRZhwdUioTLLOOTGy6bCDhvjM-eKgnC_q7HgUWKwEaWJNPdHe9jI3yhISpFbrKLcLW4x-0CDKdyNrKq2ENdN2ItWYbUAmvka4txV6JBmE6DNrQlaoffbHwaic9A-jVRCMbEh3wRoOiYKlb_VKW7ixdsamJahiNW67QGai9Zr1ZqF8HCwg-XaXi7k3EijEopH8oI-_nMMsstptFyNzLt78gnnOSBfv7AxQc4yWli1wO3ehtGOJcGHgSPlPHwzCFp1r7Wjl3TefCGNWvtxYWebLJtY55kFC6mDDq9Ugy_3-liwkakE5-RrQABVsawaCqVM1fxVuEwxiPjGo1x4Osy6qGfWXzKYfAn61ZAYUTk_A3N4xS7vn_NqjxOl2imdFb5HmO1YBWW6oi56JxCYUHDpbD8QUCu8umuZr2VWfdwjSG-xTqqgVNavDi5-4eFhBYN314KBtfJ4hKUTDjtwbqmuSkGDHcxuuoecioAMCoi6K10fVlvIHE5prPfWKRkAqLnchDegtclIaO1J1zbjO62pfioL0h0RZWqXhjbHpRKMlqnsTIXzX2Q81cK7E2luH6E0V7lNe3zC2nqU0fZzP13i96Gemz8F6TZvHz4sTA8nEpuhTGtW9VPx1xdqTT3z53WAzlp6vxZ9KFLmn_7wWLACKiOEuLxkAnB4KNx_8qLikqJICi5zLcnQWdfDM9si4dW1K6Aad1nOnoYjc_zfPu-3QLzTEfcJOwhl5-wr1o2IP-T0nRbCWuQKGfock5phKw7QRQjhR878UvnIyjo4CFdSN4ZZCRskmkJ-JqoawddqaHG4cxqj1QVWPzVk-GSQtz4XMdVwu_XMnRUVS3PPuGeUF-mae_wPXyUF7Cbhc30e-utYXff20rVxA_AmO-HaR6Xx6gY5lnwHZ09bemXkTigiHAjcJqRdu5jxGM330KIVlZVHjp6wpo_btIy8rptqjUukXQ1uluiwbRlrtPIln7jZDd0qaqq9nNijSvfcTRtSgzUvLqRZDwEH3vJ3XlFXvACCKpLoid0gOZ9xLFMJqFAZdRtjX02Gkgil1XSYNjgqH8UB3hpfcT6Bsib94sDzLCA5gdnHh9srdQaymJylHamRwnevIADwp0KhYKgzS7v9pPFvniUuYe4wQ9sU95SZoChTb3WqvxLmUyvoeNCeSi5ZWRHX17dJac0OT_iYbtvP8SQj0z8IXfuYsVGTAelonaq-Z_5cLz0QU6mbq7MmEdII8D1lQjZh5GyoqGq-_DEnUjNU7RYoSddATKFGavWzvEIp1dEF6nu6WbBb574g_MFkumOG-Rr_K5EtLtYO9Wu9cEvsVy1iC-tkUez5RcuXNlE0ucDjwjdtzmVkiPoemHAFv3TUEMTfmG-iGnryged-cGDXddQNsnHjXc8NwWHv4A9L9RnzFdtRl-CuAJdZfvjg4Q3Hh8CkeUSrm2IAzSWUHeWn3znSeEXdK8BS-CsTVn0c521d0qTJk2bAL7oQxHfkuBmjL0mq5CltcfBgzjf7JnDHHGnxw9J14uCQwElk",
+      "status": null
+    },
+    {
+      "id": "msg_0cead153e95e74b1016ae2f0e125cc87d29d7c7f931e2aab21",
+      "content": [
+        {
+          "annotations": [],
+          "text": "n = int(input())\nplace = 10 ** (len(str(n)) - 1)\nprint((n // place + 1) * place - n)",
+          "type": "output_text",
+          "logprobs": []
+        }
+      ],
+      "role": "assistant",
+      "status": "completed",
+      "type": "message",
+      "phase": "final_answer"
+    }
+  ],
+  "parallel_tool_calls": true,
+  "temperature": 1.0,
+  "tool_choice": "auto",
+  "tools": [],
+  "top_p": 0.98,
+  "background": false,
+  "completed_at": 1793257697.0,
+  "conversation": null,
+  "max_output_tokens": 16000,
+  "max_tool_calls": null,
+  "moderation": null,
+  "previous_response_id": null,
+  "prompt": null,
+  "prompt_cache_key": null,
+  "prompt_cache_options": null,
+  "prompt_cache_retention": "24h",
+  "reasoning": {
+    "context": "all_turns",
+    "effort": "medium",
+    "generate_summary": null,
+    "mode": "standard",
+    "summary": null
+  },
+  "safety_identifier": null,
+  "service_tier": "default",
+  "status": "completed",
+  "text": {
+    "format": {
+      "type": "text"
+    },
+    "verbosity": "medium"
+  },
+  "top_logprobs": 0,
+  "truncation": "disabled",
+  "usage": {
+    "input_tokens": 230,
+    "input_tokens_details": {
+      "cache_write_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens": 89,
+    "output_tokens_details": {
+      "reasoning_tokens": 50
+    },
+    "total_tokens": 319
+  },
+  "user": null,
+  "access_programs": null,
+  "billing": {
+    "payer": "developer"
+  },
+  "frequency_penalty": 0.0,
+  "presence_penalty": 0.0,
+  "store": false,
+  "tool_usage": {
+    "image_gen": {
+      "input_tokens": 0,
+      "input_tokens_details": {
+        "image_tokens": 0,
+        "text_tokens": 0
+      },
+      "output_tokens": 0,
+      "output_tokens_details": {
+        "image_tokens": 0,
+        "text_tokens": 0
+      },
+      "total_tokens": 0
+    },
+    "web_search": {
+      "num_requests": 0
+    }
+  }
+}

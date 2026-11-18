@@ -1,0 +1,25 @@
+{
+  "problem_id": "3031",
+  "test_source": "Original APPS test split via https://huggingface.co/datasets/metr-evals/apps; dataset viewer: https://datasets-server.huggingface.co/rows?dataset=metr-evals%2Fapps&config=default&split=test&offset=3031&length=1",
+  "source_dataset": "metr-evals/apps",
+  "source_split": "test",
+  "source_problem_url": "https://open.kattis.com/problems/rainbowroads",
+  "retrieved_at_utc": "2026-11-18T00:41:20.288078+00:00",
+  "verification": "id_and_question_exact_prefix",
+  "review_status": "approved",
+  "validation_scope": "reference_comparison_unique_output_candidate",
+  "checker": "reference_tokens",
+  "inputs": [
+    "8\n1 3 1\n2 3 1\n3 4 3\n4 5 4\n5 6 3\n6 7 2\n6 8 2\n",
+    "8\n1 2 2\n1 3 1\n2 4 3\n2 7 1\n3 5 2\n5 6 2\n7 8 1\n",
+    "9\n1 2 2\n1 3 1\n1 4 5\n1 5 5\n2 6 3\n3 7 3\n4 8 1\n5 9 2\n",
+    "10\n9 2 1\n9 3 1\n9 4 2\n9 5 2\n9 1 3\n9 6 4\n1 8 5\n1 10 5\n6 7 9\n"
+  ],
+  "outputs": [
+    "4\n3\n4\n5\n6\n",
+    "0\n",
+    "5\n1\n2\n3\n6\n7\n",
+    "4\n1\n6\n7\n9\n"
+  ],
+  "suite_sha256": "042cbd26b76e2dba28570a1b64054e879fe251f3a3aad258a36760bbb35a1bdc"
+}

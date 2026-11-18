@@ -1,0 +1,15 @@
+{
+  "problem_id": 3009,
+  "total_test_cases": 5,
+  "passed_before_first_failure": 0,
+  "pass_at_1": 0,
+  "failure_type": "wrong_answer",
+  "failure_index_1based": 1,
+  "detail": "output tokens differ from reference",
+  "checker": "reference_tokens",
+  "condition": "clear",
+  "difficulty": "competition",
+  "model": "gpt-6.1-sol",
+  "provenance": "batch_runner",
+  "checked_at_utc": "2026-10-29T06:33:50.609025+00:00"
+}

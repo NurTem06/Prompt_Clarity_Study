@@ -1,0 +1,25 @@
+{
+  "problem_id": "3048",
+  "test_source": "Original APPS test split via https://huggingface.co/datasets/metr-evals/apps; dataset viewer: https://datasets-server.huggingface.co/rows?dataset=metr-evals%2Fapps&config=default&split=test&offset=3048&length=1",
+  "source_dataset": "metr-evals/apps",
+  "source_split": "test",
+  "source_problem_url": "https://open.kattis.com/problems/gottacatchemall",
+  "retrieved_at_utc": "2026-11-18T01:00:29.494215+00:00",
+  "verification": "id_and_question_exact_prefix",
+  "review_status": "approved",
+  "validation_scope": "reference_comparison_unique_output_candidate",
+  "checker": "reference_tokens",
+  "inputs": [
+    "3\n1 2\n1 3\n",
+    "5\n2 1\n1 5\n3 1\n4 3\n",
+    "10\n1 2\n2 3\n2 4\n1 5\n3 6\n2 7\n7 8\n5 9\n5 10\n",
+    "8\n1 2\n2 3\n3 4\n4 5\n5 6\n6 1\n2 1\n"
+  ],
+  "outputs": [
+    "2\n",
+    "8\n",
+    "24\n",
+    "12\n"
+  ],
+  "suite_sha256": "d08f2640cf3c81b1b035080bcad3ff546a8bd1487440ab8c82b7f7ab7cf9f601"
+}

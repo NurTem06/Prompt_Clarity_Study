@@ -1,0 +1,25 @@
+{
+  "problem_id": "3045",
+  "test_source": "Original APPS test split via https://huggingface.co/datasets/metr-evals/apps; dataset viewer: https://datasets-server.huggingface.co/rows?dataset=metr-evals%2Fapps&config=default&split=test&offset=3045&length=1",
+  "source_dataset": "metr-evals/apps",
+  "source_split": "test",
+  "source_problem_url": "https://open.kattis.com/problems/manhattanpositioningsystem",
+  "retrieved_at_utc": "2026-11-18T01:00:29.091548+00:00",
+  "verification": "id_and_question_exact_prefix",
+  "review_status": "approved",
+  "validation_scope": "reference_comparison_unique_output_candidate",
+  "checker": "reference_tokens",
+  "inputs": [
+    "3\n999999 0 1000\n999900 950 451\n987654 123 13222\n",
+    "2\n100 0 101\n0 200 199\n",
+    "2\n100 0 100\n0 200 199\n",
+    "2\n0 0 5\n10 0 6\n"
+  ],
+  "outputs": [
+    "1000200 799\n",
+    "uncertain\n",
+    "impossible\n",
+    "impossible\n"
+  ],
+  "suite_sha256": "414971c762a6c0d9bd218d64acd1b7bce291bf1bef9e04c4f11bfef4146b0091"
+}

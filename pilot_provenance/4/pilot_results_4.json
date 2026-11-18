@@ -1,0 +1,22 @@
+[
+  {
+    "problem_id": 4,
+    "total_test_cases": 254,
+    "passed_before_first_failure": 254,
+    "pass_at_1": 1,
+    "failure_type": null,
+    "failure_index_1based": null,
+    "detail": null,
+    "condition": "clear"
+  },
+  {
+    "problem_id": 4,
+    "total_test_cases": 254,
+    "passed_before_first_failure": 254,
+    "pass_at_1": 1,
+    "failure_type": null,
+    "failure_index_1based": null,
+    "detail": null,
+    "condition": "ambiguous"
+  }
+]

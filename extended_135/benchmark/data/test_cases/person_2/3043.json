@@ -1,0 +1,25 @@
+{
+  "problem_id": "3043",
+  "test_source": "Original APPS test split via https://huggingface.co/datasets/metr-evals/apps; dataset viewer: https://datasets-server.huggingface.co/rows?dataset=metr-evals%2Fapps&config=default&split=test&offset=3043&length=1",
+  "source_dataset": "metr-evals/apps",
+  "source_split": "test",
+  "source_problem_url": "https://open.kattis.com/problems/treasure",
+  "retrieved_at_utc": "2026-11-18T01:00:22.980439+00:00",
+  "verification": "id_and_question_exact_prefix",
+  "review_status": "approved",
+  "validation_scope": "reference_comparison_unique_output_candidate",
+  "checker": "reference_tokens",
+  "inputs": [
+    "2 5 4\nS#.F.\n.MFMG\n",
+    "1 2 1\nGS\n",
+    "2 2 10\nS#\n#G\n",
+    "1 7 4\nSMMMMMG\n"
+  ],
+  "outputs": [
+    "3\n",
+    "1\n",
+    "-1\n",
+    "5\n"
+  ],
+  "suite_sha256": "d72155d61fdac69b62c9b99776062da26c478c42cfb67113e0acd5563fd036c9"
+}

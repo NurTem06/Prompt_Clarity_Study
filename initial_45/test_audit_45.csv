@@ -1,0 +1,46 @@
+﻿problem_id,difficulty,test_count,suite_status,prompt_review_status
+4000,introductory,250,EXISTING,not_documented
+4001,introductory,244,EXISTING,not_documented
+4002,introductory,241,ADDED,proposed; pending independent review
+4003,introductory,235,EXISTING,not_documented
+4004,introductory,155,EXISTING,not_documented
+4005,introductory,134,ADDED,proposed; pending independent review
+4006,introductory,130,EXISTING,not_documented
+4007,introductory,129,EXISTING,not_documented
+4008,introductory,100,ADDED,proposed; pending independent review
+4009,introductory,99,EXISTING,not_documented
+4010,introductory,98,EXISTING,not_documented
+4011,introductory,89,ADDED,proposed; pending independent review
+4012,introductory,81,EXISTING,not_documented
+4013,introductory,78,EXISTING,not_documented
+4014,introductory,77,ADDED,proposed; pending independent review
+0,interview,565,EXISTING,not_documented
+1,interview,278,EXISTING,not_documented
+2,interview,271,ADDED,proposed; pending independent review
+3,interview,259,EXISTING,not_documented
+4,interview,254,EXISTING,not_documented
+5,interview,229,ADDED,proposed; pending independent review
+6,interview,224,EXISTING,not_documented
+7,interview,223,EXISTING,not_documented
+8,interview,213,ADDED,proposed; pending independent review
+9,interview,205,EXISTING,not_documented
+10,interview,198,EXISTING,not_documented
+11,interview,185,ADDED,proposed; pending independent review
+12,interview,182,EXISTING,not_documented
+13,interview,182,EXISTING,not_documented
+14,interview,181,ADDED,proposed; pending independent review
+3000,competition,6,EXISTING,not_documented
+3001,competition,6,EXISTING,not_documented
+3002,competition,5,ADDED,proposed; pending independent review
+3003,competition,5,EXISTING,not_documented
+3004,competition,5,EXISTING,not_documented
+3005,competition,5,ADDED,proposed; pending independent review
+3006,competition,5,EXISTING,not_documented
+3007,competition,5,EXISTING,not_documented
+3008,competition,5,ADDED,proposed; pending independent review
+3009,competition,5,EXISTING,not_documented
+3010,competition,5,EXISTING,not_documented
+3011,competition,5,ADDED,proposed; pending independent review
+3012,competition,5,EXISTING,not_documented
+3013,competition,5,EXISTING,not_documented
+3014,competition,5,ADDED,proposed; pending independent review

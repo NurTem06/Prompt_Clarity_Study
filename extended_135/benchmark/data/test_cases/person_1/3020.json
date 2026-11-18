@@ -1,0 +1,25 @@
+{
+  "problem_id": "3020",
+  "test_source": "Original APPS test split via https://huggingface.co/datasets/metr-evals/apps; dataset viewer: https://datasets-server.huggingface.co/rows?dataset=metr-evals%2Fapps&config=default&split=test&offset=3020&length=1",
+  "source_dataset": "metr-evals/apps",
+  "source_split": "test",
+  "source_problem_url": "https://open.kattis.com/problems/newmaths",
+  "retrieved_at_utc": "2026-11-18T00:41:11.698622+00:00",
+  "verification": "id_and_question_exact_prefix",
+  "review_status": "approved",
+  "validation_scope": "reference_comparison_unique_output_candidate",
+  "checker": "reference_tokens",
+  "inputs": [
+    "6\n",
+    "149\n",
+    "123476544\n",
+    "15\n"
+  ],
+  "outputs": [
+    "4\n",
+    "17\n",
+    "11112\n",
+    "-1\n"
+  ],
+  "suite_sha256": "369d158276ae514eb9b6a8b264aaac4495c9d06419829595b0ad5881ac3db5cd"
+}

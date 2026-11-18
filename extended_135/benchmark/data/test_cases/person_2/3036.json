@@ -1,0 +1,25 @@
+{
+  "problem_id": "3036",
+  "test_source": "Original APPS test split via https://huggingface.co/datasets/metr-evals/apps; dataset viewer: https://datasets-server.huggingface.co/rows?dataset=metr-evals%2Fapps&config=default&split=test&offset=3036&length=1",
+  "source_dataset": "metr-evals/apps",
+  "source_split": "test",
+  "source_problem_url": "https://open.kattis.com/problems/kitchencombinatorics",
+  "retrieved_at_utc": "2026-11-18T01:00:21.640359+00:00",
+  "verification": "id_and_question_exact_prefix",
+  "review_status": "approved",
+  "validation_scope": "reference_comparison_unique_output_candidate",
+  "checker": "reference_tokens",
+  "inputs": [
+    "6 1 1 1 0\n2 3 1 5 3 2\n2 1 2\n3 3 4 5\n1 6\n",
+    "3 2 2 1 1\n2 3 2\n1 1\n1 2\n1 2\n1 3\n1 1\n2 3\n",
+    "3 1 1 1 1\n5 5 5\n3 1 2 3\n3 1 2 3\n3 1 2 3\n2 1\n",
+    "10 1 1 1 0\n100 100 100 100 100 100 100 100 100 100\n4 1 2 3 4\n3 5 6 7\n3 8 9 10\n"
+  ],
+  "outputs": [
+    "180\n",
+    "22\n",
+    "0\n",
+    "too many\n"
+  ],
+  "suite_sha256": "ba0e9e92cbd3fd958bd96a6b61f2388318db1d7d14b7554e17dce440282a6391"
+}

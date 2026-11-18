@@ -1,0 +1,27 @@
+{
+  "problem_id": "3017",
+  "test_source": "Original APPS test split via https://huggingface.co/datasets/metr-evals/apps; dataset viewer: https://datasets-server.huggingface.co/rows?dataset=metr-evals%2Fapps&config=default&split=test&offset=3017&length=1",
+  "source_dataset": "metr-evals/apps",
+  "source_split": "test",
+  "source_problem_url": "https://open.kattis.com/problems/powersof2",
+  "retrieved_at_utc": "2026-11-18T00:41:11.246678+00:00",
+  "verification": "id_and_question_exact_prefix",
+  "review_status": "approved",
+  "validation_scope": "reference_comparison_unique_output_candidate",
+  "checker": "reference_tokens",
+  "inputs": [
+    "1000000 1\n",
+    "1000000 5\n",
+    "1000000 16\n",
+    "9000000000000000000 62\n",
+    "5432123456789876543 33\n"
+  ],
+  "outputs": [
+    "468559\n",
+    "49401\n",
+    "20\n",
+    "1\n",
+    "4842258985\n"
+  ],
+  "suite_sha256": "22935c41aaa452338ea126ffc095b065fb665c1eccff9c0c2025355beeb24ad2"
+}

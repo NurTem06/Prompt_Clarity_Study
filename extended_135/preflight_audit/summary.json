@@ -1,0 +1,40 @@
+{
+  "task_count": 135,
+  "generation_count_if_one_per_condition": 270,
+  "people": [
+    {
+      "person": "person_1",
+      "tasks": 45,
+      "prompts": 90,
+      "image_placeholder_task_ids": [
+        "4019",
+        "4026",
+        "20",
+        "22"
+      ],
+      "preserved_io_sections_count": 45
+    },
+    {
+      "person": "person_2",
+      "tasks": 45,
+      "prompts": 90,
+      "image_placeholder_task_ids": [
+        "4033",
+        "4040",
+        "32",
+        "38"
+      ],
+      "preserved_io_sections_count": 45
+    },
+    {
+      "person": "person_3",
+      "tasks": 45,
+      "prompts": 90,
+      "image_placeholder_task_ids": [
+        "4051",
+        "56"
+      ],
+      "preserved_io_sections_count": 45
+    }
+  ]
+}

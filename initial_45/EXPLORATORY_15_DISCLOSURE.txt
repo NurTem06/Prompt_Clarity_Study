@@ -1,0 +1,8 @@
+RMT: 15 revised task pairs tested in EXPLORATORY mode.
+No independent review has been conducted or claimed. The prompt
+equivalence and experimental clarity manipulation have not been
+independently validated. Do not describe these pairs as independently
+reviewed in the paper.
+Task 4005: corrected contradictory source phrase in BOTH prompts,
+with the original task wording otherwise preserved.
+Existing 60 generated code outputs and logs were not touched.

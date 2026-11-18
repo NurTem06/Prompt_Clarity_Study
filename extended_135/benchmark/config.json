@@ -1,0 +1,10 @@
+{
+  "model": "gpt-6.1-sol",
+  "reasoning": {"mode": "standard", "effort": "medium"},
+  "max_output_tokens": 16000,
+  "docker_image": "python:3.11-slim",
+  "case_timeout_seconds": 10,
+  "task_timeout_seconds": 1200,
+  "max_workers": 3,
+  "note": "These are the settings in the uploaded RMT_Batch_45/runner.py, not a claim of current API availability."
+}

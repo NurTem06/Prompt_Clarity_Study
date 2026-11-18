@@ -1,0 +1,99 @@
+{
+  "id": "resp_0cc3657f87cf4da1016ae2f0ca994487d29000d0674d0c4bb8",
+  "created_at": 1793257674.0,
+  "error": null,
+  "incomplete_details": null,
+  "instructions": "Solve the programming problem using Python 3. Read from standard input and write to standard output. Return only executable Python 3 source code, without Markdown or explanations.",
+  "metadata": {},
+  "model": "gpt-6.1-sol",
+  "object": "response",
+  "output": [
+    {
+      "id": "msg_0cc3657f87cf4da1016ae2f0cbd05087d2ac5d47361bb82eb2",
+      "content": [
+        {
+          "annotations": [],
+          "text": "import sys\n\ndef main():\n    data = list(map(int, sys.stdin.buffer.read().split()))\n    n, k = data[0], data[1]\n    a = data[2:2 + n]\n\n    groups = {}\n    for i, value in enumerate(a):\n        groups.setdefault(value, []).append(i)\n\n    if any(len(indices) > k for indices in groups.values()):\n        sys.stdout.write(\"NO\\n\")\n        return\n\n    colors = [0] * n\n    current = 0\n    for indices in groups.values():\n        for i in indices:\n            colors[i] = current % k + 1\n            current += 1\n\n    sys.stdout.write(\"YES\\n\" + \" \".join(map(str, colors)) + \"\\n\")\n\nif __name__ == \"__main__\":\n    main()\n",
+          "type": "output_text",
+          "logprobs": []
+        }
+      ],
+      "role": "assistant",
+      "status": "completed",
+      "type": "message",
+      "phase": "final_answer"
+    }
+  ],
+  "parallel_tool_calls": true,
+  "temperature": 1.0,
+  "tool_choice": "auto",
+  "tools": [],
+  "top_p": 0.98,
+  "background": false,
+  "completed_at": 1793257677.0,
+  "conversation": null,
+  "max_output_tokens": 16000,
+  "max_tool_calls": null,
+  "moderation": null,
+  "previous_response_id": null,
+  "prompt": null,
+  "prompt_cache_key": null,
+  "prompt_cache_options": null,
+  "prompt_cache_retention": "24h",
+  "reasoning": {
+    "context": "all_turns",
+    "effort": "medium",
+    "generate_summary": null,
+    "mode": "standard",
+    "summary": null
+  },
+  "safety_identifier": null,
+  "service_tier": "default",
+  "status": "completed",
+  "text": {
+    "format": {
+      "type": "text"
+    },
+    "verbosity": "medium"
+  },
+  "top_logprobs": 0,
+  "truncation": "disabled",
+  "usage": {
+    "input_tokens": 573,
+    "input_tokens_details": {
+      "cache_write_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens": 173,
+    "output_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "total_tokens": 746
+  },
+  "user": null,
+  "access_programs": null,
+  "billing": {
+    "payer": "developer"
+  },
+  "frequency_penalty": 0.0,
+  "presence_penalty": 0.0,
+  "store": false,
+  "tool_usage": {
+    "image_gen": {
+      "input_tokens": 0,
+      "input_tokens_details": {
+        "image_tokens": 0,
+        "text_tokens": 0
+      },
+      "output_tokens": 0,
+      "output_tokens_details": {
+        "image_tokens": 0,
+        "text_tokens": 0
+      },
+      "total_tokens": 0
+    },
+    "web_search": {
+      "num_requests": 0
+    }
+  }
+}

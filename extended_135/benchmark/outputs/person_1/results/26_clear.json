@@ -1,0 +1,23 @@
+{
+  "problem_id": "26",
+  "total_test_cases": 152,
+  "test_cases_executed": 152,
+  "test_cases_passed": 152,
+  "passed_before_first_failure": 152,
+  "pass_at_1": 1,
+  "failure_type": null,
+  "failure_index_1based": null,
+  "detail": "",
+  "checker": "reference_tokens",
+  "syntax_ok": true,
+  "runtime_seconds": 3.2855,
+  "person": "person_1",
+  "condition": "clear",
+  "difficulty_tier": "Interview",
+  "model": "gpt-6.1-sol",
+  "checker_review_status": "approved",
+  "test_source": "Original APPS test split via https://huggingface.co/datasets/metr-evals/apps; dataset viewer: https://datasets-server.huggingface.co/rows?dataset=metr-evals%2Fapps&config=default&split=test&offset=26&length=1",
+  "prompt_sha256": "edc9a0e6d5d9d1d9ca5fda8d817eddbc9efbc3dbfb8fe3f82f94b7c25367bc32",
+  "code_sha256": "50e6b2c9d5afb124060950e64564a7a143a2f07f1455c62c3dd0681bf01614bf",
+  "evaluated_at_utc": "2026-11-18T00:47:17.051369+00:00"
+}

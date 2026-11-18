@@ -1,0 +1,107 @@
+{
+  "id": "resp_009c02817a01b51e016ae2e6ab60a087d29f4826ca28be88d5",
+  "created_at": 1793255083.0,
+  "error": null,
+  "incomplete_details": null,
+  "instructions": "Solve the programming problem using Python 3. Read from standard input and write to standard output. Return only executable Python 3 source code, without Markdown or explanations.",
+  "metadata": {},
+  "model": "gpt-6.1-sol",
+  "object": "response",
+  "output": [
+    {
+      "id": "rs_009c02817a01b51e016ae2e6ac2ef887d28f19a0cb2f976158",
+      "summary": [],
+      "type": "reasoning",
+      "content": [],
+      "encrypted_content": "gAAAAABq4ua2vGarOeM-AUhhRpYnyqQFzps03wAicgKyVaYm2eC2rRyrJv35LyoRFHtwG7p7xf0CEwPrhbyeHwHAs1dZiesYylV5lFfqUNuL-FP-VX53q-ZENKbwBCpEq4FLX5P-5bZ7zEjiltzVQsAyNiwJTL6s3Py_kmgEftT4n1No1kN4v7h6zssLwIpw_hlOM444uwgSU98zK7HGr5eBSqO90Ec6I_UFBb0vbBC7k56hLMN5JeyLwjyAdWBvrA8GmerrIGec32HO6gNqGu3HmUn2XPAMm61xotDbG3VJzzb2UmdyC8AQdyjuBFzyIfgQu1D2PG0zpgSRrKW0CPmxn8Nuvrewx7IZmL9PpvdWSwpbGEHaavngFg0SQnR158QaGgc6jOuCF8uGkg8Vf02COQaOddH_3wYpiBQL3XC38TTd-pHMGZ41aUAViBOQrtYQUdJsdzrzGKrBd7Ld88Bx_cpEbr5tn1K9SGWZSEgMhzJxm84oSH2FrYjhvu5SKI2wqzqLP8ehK19UVsbx-TB_t56VvOr2hCmOK9BWB3Iz_IyyUpkIlglcTWbHOM42cpAzSJ7z2O8yoKem-YA6mxeRepAs3tbaNuMnhUk6hbafaxl7iM4ZrZoakdmn_qZd9hQGAxlyqXLv8GJ-d_h3w3xbR9ENgVI2w3cGTXjeIDY9VklRSClm9QG3S2tAp6XwfAn7p85tH0HtVNwfRauiKRQyiOqeqT9Z-hHXZmrg0-t-KK3wSORazT7STNmrHEvAUZDbRP7Wc2D376Cmw-RAwdD15n1XEbY_iwvS4F4742l8-TAE_6-5f6L_WjXkSrRQcNPPpf0-piszutiQc2nO6Sd-PdkgqiIanMV3mD52e52UrFw4D7OX1aszyQMUZpS0fZLqj_PY0GrJsOcQdGnGstAtFYmoBU6eE2rlwGmAy0agW1ITHlNTsFKL4MsYF1LnVIyQPbUaxVwxzS9L6Dj9LnLJMmO5BDtZ5F0CDuMkDYh7uJ9IZsIBK7Fzy-X3fBYNfREkY3uesbVXCIwK-pN0n1SrKtMk2k8icsPXSGKtlOHdRCEagkT649A3KGIGhds0Tqn0yS0ScDWL9GMRlhhEy8fHt1GDMD9KfCJ7dKJYED5tfz7y0nqquvn8YAAiEiB3S-tiHifw8kMFjninu2K1RaO9PLSqNWdr7Vy-TdnVBMn7KiGYXir2AejM420aP75vmlNwZczkIPjDoaqMUu7RbUh5YQpFpsMchBOnTf89U7sdx8hZ1u1mqw-Mwb18z_QSh1iheRZQiQtq9kiW3FV846xOCh8ic0i-d0i7HsXy2zrRwncwpr1KdG0Lute90nrtOMQBOrLHU32OjdE7YQ3KRp0Mxb5C8200zQqiLmUvLRtfLBmA7EX2qXgnqKTD4oozqgG3177KCpBBxVteZL6CKRaDURGQWiDpr3JW-U9LNTwLC9AMLVUos9i9g2qVxNSpObgTm5cJv582wXJ5mesSqhfSF-tQr9WB9vMGqsO86pDu2Y594pg_LsZCUDfJtcTfP7MgefpQIzxA40SgafBGgdlqZQ7WEycwFiSZ6tyySaYHdWC8P8XGpVO5crlDzXqLb50iDDJUnGFwt5j1W4cm1wxXvjbFVPMPjOZp0Uunuabv6Xj-a7eqF41Sxl1QrZwK-TJVrXnYC4ue99nBANYOXw4_2pC4eUMRP94-rsdA4SV_rlxpfoDyIL4A-E6JB_eDkEYr-VF4w63zKauwsAQ_Wem0Sghi9TMuRGLGoA8SN3obm76MypFcHgpp4ncIch3afa-_AgT2CyFCK6bJ0Fa6j5ZgcB-Sy8p_3FXTxh1LeVMi6-ZnrbyFWPdSYkb_7179ask94xCf02FqxhwpA7THBQVHDEoykYF7HU4nczYBAwQ1Iv8K6N4PO3fI9W1g6R5K4_emjMZ1CPtt8akfY1SWv-h_VWbHS3FgjLVKhKMEy56LgA2YOF2iqwKi-qTgeNykZMNGXAJW33bZsFVBEZysWIVTBL37YXQ56AySbudroEsX08DWix257gmAAE3K2rOlL2mD1qSntGDVFcg-JXE89gJcqb7afgu5Dec4IifcjfLXHcrfL-enj9QWm063eRAplk5rONcwOpGt9bkPQQY2ggyeK1WpSTf1iinGwtwC6-zYuHndfozd-bJ3tCqh1iAyUAiKA9j9OIXoug0tDrebNObwmkvSHrnRPq3-q_xWtkwCs144r9P1CHgalI4BBi8lgRE20Kqg8WyC7-LAj4JWsd4fQKlAtCi3flXuBOM5QVhr9tNN2uJmILEkGypX7dtWdR6tEyy7RlBoNcz30iz1uPDvwdqV6YUGhwXR5bViNSHW83z_KUJcMrCsNjE4d23my8TIeJoFIy1yvkabWd5PmcTBVhEvYKcCPn_3FSN9z8lMpN1otDzRs5BecN4kid1l5zSsHc5Xhg0gwxsPng4MFdexBIRZOfghSRvT1aH4ie7D4n6E9x-jyh8DUse5XxVaSrTFxVV3XO1hFU1K1lVW4bPKsCHyztw0JbvlFo4Uzt8TzHlHirgVDD2jxQQNGmvYVBRuqtYAD6xeKhRt10w5j9LwKvzeeWIMNeWRQFQ5ilkPq_in8SzciGmCzsHzjhOysrwrmX2zo2OEmVM9otSmsxnP1ICa5ErikLkbTZtcjhqccsgkBzN5cAiHlynny6T1lYOo4Ds5r922vZmOm2o6z_r8eR4lFEJdDcUuB-V5iQmXSMzpbx7qaAtp52ek41LTt8VsB4ETED6WaHLmPiw_g46WmDxEKnm64ErrX0fPTNAfU3YByozbAaKeIdem2UH7lvvq1Pflx6br0A8Sye0O9SrUym1mPMpWHhtSdzg2MhCejX1e_XVAVXcEquWDunwEbhX9WQRcbLpSGKtE0cgr84BLBzJqWOi18v2wlZwlJAULrm1PX8r8gpWjG8BjeZhDcfNbFtkuqg7GGMUS7ab1sbUeMfrFebp0tqY6_22IqUkBBjOg-m5ZRo6_I7KZhiJmY0EPhwGntu6RoySjIdB8HsrAQajbZvZZorH6QcBnM43pJlynmeXvXYbEjdMueSs5b_W84dCp6eY509vuvJj2M5nCG1TAaH6hitKxk1FC36T0DCzfbBZuzMw89FCdVYBybXjELnjSmiojm9ICcY-9o252Exsrtu0Zoru18v81y9c5y8tMT_uivn8TUmbX513y0Eg3LX1nnGuXEC0NgnlDsUV9iKMk91UUuMsw_jflNWX62MEzsvFhEmBlWesjmEL5pLi5IjDQGc8WudIphaxQSLWkNpPDnxlvUT75hpoQODsM3K5iPNzBg3CoyiaR6sW8zi17uDP1S1WseoiIpVDmo_30la2PeLSK2BXKEwD5htAsziK29xvcVXY3Ud43JQlo59QwfL6kiPDfFlqefPjR8wibTczfi_StpCFIlRlFtRke5n8F-KZC_H4lVhi5XFnRFpJrIpTFlXsGYnyxj7tKq6WVFTlZITZX5BQu3bdeQoY2N_l4AZ59ipL8E6gLnpZl6SJh_j3WPEYHvTRpsSxj8y7pp9X85eZR42PaGbv1C8KYcJOHCnhtgsW8wWNp5JTU2C3IuOOhoO9DVdQR4S6Tq_P6PfX1Srgv2Rn_PDZOYjJTkBLSGFCOVhe8_SH0L8RN8r2rz5DflbWAcsuXEJpWLsFOE0T2VFp8QwxdNijB_fBNcgzXGlo53O5inMpWwiCx3VQk2qay_a8dFu72zPYvaNFyNjA_-Qe1YW2xI49wwUp8mRd8BO-MoxXcmvTMH0lM2oCwVv9Kj0O5672GGFwSqDhPB9Cg81DtwtYNHixT2Ora9NUJP8Oer6jTq9xeWq0bxjGmx-zd2qmrQKnXOWqEjkUNufIV6HGCnmutWVpWqjSy2u8FgonX-bdC4JySZkAy1DCMzOVLU2MUvYEz09aKa1DSvkigcFYOILto2T_8IfRkLirrXAM_ymm0z0xCqeJHFaz6_2mBKuFfLU0hakQgnrpkeg_z8zsf2ZunkZOK6kpAwaoGalUOXOAuZOgbNQiNQBP2kOkjMm52O7Rpv9w3R_hBwiYq_yAplMlcVmp6SJpgPYFxBOrQc4zGB7gBEXEP3unrKtATyXLdDz3K2dghlxXY5sBEY1va0IyBJyUQNJ43houg-abGdrPhYAbvhEAUhAmVk3OafPQ37GabBu2qbJ-JUIK3VhKqO5FZsnSOBT--LomVLzFnuFdIbH6CCg5bSvBWUnQQzc1kCeHQCX-J0gNYevv0nHVbUZ914ogtw0defhQJmVguORlqAWuyBc0aGoqXIZYP05MD3hALF9xM0P9vMPZe8EF-glByR9za_mUCOEdh97Zb07xMJ1hyGW47lVx2Qg9JeMOe8QaOu7yl5Nd9yNRbMU7zD-X3FPrKxg93SpEk8GNzcB2rf4B_WzrJFDHd3yo1MeJyL5hx_GhinNBWzpaKLD69_2d-37ef4nyjCo_x0aovAIJ73bmXh4NXm6e-iVVE8NcVaxTGwl_cXI0feDBiyaTJCPJojyVRjgWslZoxtMuIjDhbpVm_JdbeZF3yf55bFPrsTzMstqHOB52e5vuIeyvmBD8L7LnGuTe7i3A-G237D93tsNr-wAmguBu-4u4xbXNwa_xozP90InKrOvAKSpIAG8RiLgXyA2_chNrDhVAGJDObL_dsbCvNytBFTunRWmxsOG4NZVSgN029c1qt0vM7V2qVlPZAqmGmnr-pWHWTrYgsmIDFeBZ7Msc4RASQeneng7R5tCUXYF3QPp1wkQWlGEnnUrCH0e09cS3O0WMnUU8XG5vNuUIsaS8X3BTzhIezdE_xqGktw-6aicayEqSB_w==",
+      "status": null
+    },
+    {
+      "id": "msg_009c02817a01b51e016ae2e6b4da1c87d2b362f2d5cae8a811",
+      "content": [
+        {
+          "annotations": [],
+          "text": "import sys\n\n\ndef main():\n    input = sys.stdin.buffer.readline\n    n, k = map(int, input().split())\n    main_courses = list(map(int, input().split()))\n\n    prerequisites = [[] for _ in range(n + 1)]\n    for course in range(1, n + 1):\n        prerequisites[course] = list(map(int, input().split()))[1:]\n\n    state = bytearray(n + 1)\n    order = []\n\n    for root in main_courses:\n        if state[root] == 2:\n            continue\n\n        stack = [root]\n        while stack:\n            course = stack.pop()\n\n            if course < 0:\n                course = -course\n                state[course] = 2\n                order.append(course)\n                continue\n\n            if state[course] == 2:\n                continue\n            if state[course] == 1:\n                sys.stdout.write(\"-1\\n\")\n                return\n\n            state[course] = 1\n            stack.append(-course)\n            stack.extend(prerequisites[course])\n\n    sys.stdout.write(str(len(order)) + \"\\n\")\n    sys.stdout.write(\" \".join(map(str, order)) + \"\\n\")\n\n\nif __name__ == \"__main__\":\n    main()\n",
+          "type": "output_text",
+          "logprobs": []
+        }
+      ],
+      "role": "assistant",
+      "status": "completed",
+      "type": "message",
+      "phase": "final_answer"
+    }
+  ],
+  "parallel_tool_calls": true,
+  "temperature": 1.0,
+  "tool_choice": "auto",
+  "tools": [],
+  "top_p": 0.98,
+  "background": false,
+  "completed_at": 1793255094.0,
+  "conversation": null,
+  "max_output_tokens": 16000,
+  "max_tool_calls": null,
+  "moderation": null,
+  "previous_response_id": null,
+  "prompt": null,
+  "prompt_cache_key": null,
+  "prompt_cache_options": null,
+  "prompt_cache_retention": "24h",
+  "reasoning": {
+    "context": "all_turns",
+    "effort": "medium",
+    "generate_summary": null,
+    "mode": "standard",
+    "summary": null
+  },
+  "safety_identifier": null,
+  "service_tier": "default",
+  "status": "completed",
+  "text": {
+    "format": {
+      "type": "text"
+    },
+    "verbosity": "medium"
+  },
+  "top_logprobs": 0,
+  "truncation": "disabled",
+  "usage": {
+    "input_tokens": 538,
+    "input_tokens_details": {
+      "cache_write_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens": 527,
+    "output_tokens_details": {
+      "reasoning_tokens": 264
+    },
+    "total_tokens": 1065
+  },
+  "user": null,
+  "access_programs": null,
+  "billing": {
+    "payer": "developer"
+  },
+  "frequency_penalty": 0.0,
+  "presence_penalty": 0.0,
+  "store": false,
+  "tool_usage": {
+    "image_gen": {
+      "input_tokens": 0,
+      "input_tokens_details": {
+        "image_tokens": 0,
+        "text_tokens": 0
+      },
+      "output_tokens": 0,
+      "output_tokens_details": {
+        "image_tokens": 0,
+        "text_tokens": 0
+      },
+      "total_tokens": 0
+    },
+    "web_search": {
+      "num_requests": 0
+    }
+  }
+}

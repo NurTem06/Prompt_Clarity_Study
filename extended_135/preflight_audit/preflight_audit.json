@@ -1,0 +1,15 @@
+{
+  "new_tasks_total": 135,
+  "new_prompts_total": 270,
+  "unique_problem_ids": 135,
+  "old_test_suites_new_id_overlap": 0,
+  "missing_approved_test_suites": 135,
+  "source_url_metadata_repairs": 30,
+  "flagged_tasks_per_person": {
+    "person_1": 4,
+    "person_2": 45,
+    "person_3": 45
+  },
+  "generated_api_attempts": 0,
+  "real_scores_available": 0
+}
